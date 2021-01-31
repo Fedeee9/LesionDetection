@@ -26,14 +26,16 @@ test_res_tflite_dir = working_dir + "test_results_tflite/"
 test_res_tflite_file = test_res_tflite_dir + "test_results_tflite.csv"
 train_log_dir = working_dir+'training_logs/'
 
-dataset_dir = working_dir+'data/dataset/'
+dataset_dir = working_dir+'dataset/'
 train_dir = dataset_dir+'train/'
 test_dir = dataset_dir+'test/'
 val_dir = dataset_dir+'validation/'
-labels_file = dataset_dir+'text_mined_labels_171_and_split.json'
-train_csv = dataset_dir+'Train_info.csv'
-test_csv = dataset_dir+'Test_info.csv'
-val_csv = dataset_dir+'Val_info.csv'
+
+file_dir = working_dir+'file/'
+labels_file = file_dir+'text_mined_labels_171_and_split.json'
+train_csv = file_dir+'Train_info.csv'
+test_csv = file_dir+'Test_info.csv'
+val_csv = file_dir+'Val_info.csv'
 
 
 model_file = models_dir + model_name+".h5"
