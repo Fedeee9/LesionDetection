@@ -20,7 +20,6 @@ input_shape=(224,224,3)
 
 
 working_dir="./"
-models_dir = working_dir+'/models'
 models_tflite_dir = working_dir + "models_tflite/"
 test_res_tflite_dir = working_dir + "test_results_tflite/"
 test_res_tflite_file = test_res_tflite_dir + "test_results_tflite.csv"
@@ -37,7 +36,7 @@ train_csv = file_dir+'Train_info.csv'
 test_csv = file_dir+'Test_info.csv'
 val_csv = file_dir+'Val_info.csv'
 
-
+models_dir = working_dir+'/models'
 model_file = models_dir + model_name+".h5"
 model_checkpoint = models_dir + model_name+"_checkpoint.h5"
 model_tflite_file = models_tflite_dir + model_name+".tflite"
