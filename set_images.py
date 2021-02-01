@@ -54,8 +54,6 @@ def read_images(dir):
                             path_out = os.path.join(dir_outTe,name)
                             cv2.imwrite(path_out, im)
                             print(path_out, 'saved')
-
-    
     
 if __name__ == '__main__':
     read_images(dir_in)
