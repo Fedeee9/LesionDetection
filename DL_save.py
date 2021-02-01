@@ -27,11 +27,6 @@ def load_slices(dir, slice_idxs, fn_out):
         
         img = (im.astype(np.int32) - 32768).astype(np.int16)
 
-        # the 16-bit png file has a intensity bias of 32768
-        #ims.append((im.astype(np.int32) - 32768).astype(np.int16))
-        #img = np.array(ims)
-        #print(type(img))
-		
         path_out = os.path.join(dir_out, fn2)
         cv2.imwrite(path_out, img)
         print (fn2, 'saved')
