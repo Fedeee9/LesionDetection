@@ -43,6 +43,3 @@ if __name__ == "__main__":
         evaluate(model, labels, test_images)
     else:
         print("Model not found in {}".format(config.model_file))
-        
-
-

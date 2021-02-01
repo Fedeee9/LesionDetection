@@ -1,7 +1,7 @@
 import config
 import os
 import shutil
-import rubbish_detector_model
+import lesion_detector_model
 from preprocess_data import load_train_csv, load_val_csv
 from preprocess_data import data_generator, load_labels, load_train_dataset, load_val_dataset
 from keras.preprocessing.image import ImageDataGenerator
@@ -11,7 +11,6 @@ from keras.callbacks import ModelCheckpoint, Callback, EarlyStopping, CSVLogger,
 
 
 def train(model, labels, train_images, val_images):
-
 
     print('\nTrain set size: {}'.format(len(train_images)))
     print('Validation set size: {}\n'.format(len(val_images)))
@@ -93,9 +92,9 @@ if __name__ == "__main__":
 
 
     if os.path.isfile(config.model_checkpoint):
-        model = rubbish_detector_model.restore_model(config.model_file)
+        model = lesion_detector_model.restore_model(config.model_file)
     else:
-        model = rubbish_detector_model.create_nn(len(labels))
+        model = lesion_detector_model.create_nn(len(labels))
 
 
     history = train(model, labels, train_images, val_images)

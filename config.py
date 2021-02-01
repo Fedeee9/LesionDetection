@@ -18,13 +18,13 @@ input_shape=(224,224,3)
 #input_shape=(224,224,3)
 ########################
 
+working_dir="./"
 file_dir = working_dir+'file/'
 labels_file = file_dir+'text_mined_labels_171_and_split.json'
 train_csv = file_dir+'Train_info.csv'
 test_csv = file_dir+'Test_info.csv'
 val_csv = file_dir+'Val_info.csv'
 
-working_dir="./"
 models_tflite_dir = working_dir + "models_tflite/"
 test_res_tflite_dir = working_dir + "test_results_tflite/"
 test_res_tflite_file = test_res_tflite_dir + "test_results_tflite.csv"

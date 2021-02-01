@@ -10,13 +10,19 @@ from collections import defaultdict
 from tensorflow.python.keras.preprocessing import image
 from tensorflow.keras.utils import to_categorical
 
-def load_train_csv(train_csv):
+# Mod Bounding Boxes
+def load_train_csv_bb(train_csv):
     df = pd.read_csv(train_csv, sep=';')
 
-    """name = df['File_name']
-    label = df['Label']
-    axis = df['Measurement_coordinates']
-    box = df['Bounding_boxes']"""
+    filenames = df['File_name'].dropna().tolist()
+    box = df['Bounding_boxes'].dropna().tolist()
+    #axis = df['Measurement_coordinates'].tolist()
+
+    return filenames, box
+
+# Mod Labels
+def load_train_csv(train_csv):
+    df = pd.read_csv(train_csv, sep=';')
 
     return df
 
@@ -49,7 +55,7 @@ def read_image_as_array(image_path, target_shape=config.input_shape):
 
     # load with Pillow
     img = image.load_img(image_path, target_size=target_shape)
-#    img.show()
+    #img.show()
     image_array = image.img_to_array(img)
 
     # load with opencv
@@ -70,7 +76,7 @@ def load_dataset_from_dir(d):
            if f.is_file():
                images.append(f.name)
 
-    random.shuffle(images)
+    #random.shuffle(images)
 
     return images
 
