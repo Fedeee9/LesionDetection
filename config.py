@@ -18,6 +18,11 @@ input_shape=(224,224,3)
 #input_shape=(224,224,3)
 ########################
 
+file_dir = working_dir+'file/'
+labels_file = file_dir+'text_mined_labels_171_and_split.json'
+train_csv = file_dir+'Train_info.csv'
+test_csv = file_dir+'Test_info.csv'
+val_csv = file_dir+'Val_info.csv'
 
 working_dir="./"
 models_tflite_dir = working_dir + "models_tflite/"
@@ -42,5 +47,5 @@ model_checkpoint = models_dir + model_name+"_checkpoint.h5"
 model_tflite_file = models_tflite_dir + model_name+".tflite"
 train_log_file = train_log_dir + model_name+"_log.csv"
 
-batch_size = 16
+batch_size = 32
 total_epochs = 100
