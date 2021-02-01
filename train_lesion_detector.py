@@ -64,8 +64,8 @@ def train(model, labels, train_images, val_images):
                         callbacks=[save_model_callback, # early_stopping_callback,
                                     reduce_lr_callback, csv_logger_callback])
 
-#    print("SAVING MODEL TO " + config.model_file)
-#    model.save(config.model_file, include_optimizer=False)
+    #print("SAVING MODEL TO " + config.model_file)
+    #model.save(config.model_file, include_optimizer=False)
     shutil.move(config.model_checkpoint, config.model_file)
     print("TRAINING COMPLETE!")
 

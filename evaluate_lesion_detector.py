@@ -7,8 +7,6 @@ import tensorflow as tf
 import lesion_detector_model
 
 
-
-
 def evaluate(model, labels, test_images):
 
     print("Test set size: {}".format(len(test_images)))
