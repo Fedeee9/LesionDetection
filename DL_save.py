@@ -7,7 +7,7 @@ import csv
 
 dir_in = './dataset/Images_png'
 dir_out = './dataset/Images'
-out_fmt = './dataset/%s_%03d.png'  # format of the file name to output
+out_fmt = '%s_%03d.png'  # format of the file name to output
 info_fn = './file/DL_info.csv'  # file name of the information file
 
 

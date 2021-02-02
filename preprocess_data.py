@@ -20,6 +20,15 @@ def load_train_csv_bb(train_csv):
 
     return filenames, box
 
+def load_valid_csv_bb(val_csv):
+    df = pd.read_csv(val_csv, sep=';')
+
+    filenames = df['File_name'].dropna().tolist()
+    box = df['Bounding_boxes'].dropna().tolist()
+    #axis = df['Measurement_coordinates'].tolist()
+
+    return filenames, box
+
 # Mod Labels
 def load_train_csv(train_csv):
     df = pd.read_csv(train_csv, sep=';')
