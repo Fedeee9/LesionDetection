@@ -5,8 +5,8 @@ import mimetypes
 import imutils
 import os
 import cv2
-import tensorflow.keras.models import load_model
-improt tensorflow.keras.preprocessing.image import load_img, img_to_array
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
 def predict():
     # Argument parser
