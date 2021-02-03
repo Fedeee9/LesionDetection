@@ -1,44 +1,68 @@
+import os
+import cv2
 import config
-from preprocess_data import load_train_csv_bb, load_train_dataset, load_valid_csv_bb, load_val_dataset
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from preprocess_data import read_image_as_array
+from preprocess_data import load_train_dataset, load_val_dataset
 from tensorflow.keras.applications import VGG16
 from tensorflow.keras.layers import Input, Flatten, Dense
 from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import Adam
-import matplotlib.pyplot as plt
-import numpy as np
 
 
-def load_img_train():
-    img = []
+def load_bb(csv, dir_bb):
+    df = pd.read_csv(csv, sep=';').dropna()
 
-    filenames_dataset = load_train_dataset(config.train_dir)
-    for file in filenames_dataset:
-        image = read_image_as_array(config.train_dir + file)
-        img.append(image)
+    images = []
+    boxes = []
+    names = []
+    count = 0
 
-    return img
+    filenames = df['File_name'].tolist()
+    bb = df['Bounding_boxes'].tolist()
+    # axis = df['Measurement_coordinates'].tolist()
 
-def load_img_validation():
-    img = []
+    for row in bb:
+        name = filenames[count]
+        row = row.split(',')
+        (startX, startY, endX, endY) = row
 
-    filenames_dataset = load_val_dataset(config.val_dir)
-    for file in filenames_dataset:
-        image = read_image_as_array(config.val_dir + file)
-        img.append(image)
+        imagePath = os.path.sep.join([dir_bb, name])
+        image = cv2.imread(imagePath)
+        (h, w) = image.shape[:2]
 
-    return img
+        # scale the bounding box coordinates relative to the spatial
+        startX = float(startX) / w
+        startY = float(startY) / h
+        endX = float(endX) / w
+        endY = float(endY) / h
+
+        # load the image and preprocess it
+        image = load_img(imagePath, target_size=(224, 224))
+        image = img_to_array(image)
+
+        images.append(image)
+        boxes.append((startX, startY, endX, endY))
+        names.append(name)
+
+        count += 1
+
+    return images, boxes, names
+
 
 def train():
     print("[INFO] loading dataset...")
+    image_t, box_t, filenames_t = load_bb(config.train_csv, config.train_dir_bb)
+    image_v, box_v, filenames_v = load_bb(config.val_csv, config.val_dir_bb)
 
-    # load filenames and bounding boxes
-    filenames_t, bounding_box_t = load_train_csv_bb(config.train_csv)
-    filenames_v, bounding_box_v = load_valid_csv_bb(config.val_csv)
-
-    # load images
-    images_train = load_img_train()
-    images_validation = load_img_validation()
+    # convert the image and the box to NumPy arrays
+    image_t = np.array(image_t, dtype='float32') / 255.0
+    box_t = np.array(box_t, dtype='float32')
+    image_v = np.array(image_v, dtype='float32') / 255.0
+    box_v = np.array(box_v, dtype='float32')
 
     print("[INFO] saving testing filenames...")
     f = open(config.test_image, 'w')
@@ -66,28 +90,25 @@ def train():
     print(model.summary())
 
     # train the network for bounding box regression
-    print("[INFO] training bounding box regressor...")
-    history = model.fit(images_train, bounding_box_t, validation_data=(images_validation, bounding_box_v),
-                  batch_size=32, epochs=25, verbose=1)
+    print("[INFO] training bounding box regress...")
+    history = model.fit(image_t, box_t, validation_data=(image_v, box_v), batch_size=32, epochs=25, verbose=1)
 
     print("[INFO] saving object detector model...")
     model.save(config.model_detector, save_format='h5')
 
     return history
 
-if __name__ == "__main__":
 
+if __name__ == "__main__":
     H = train()
 
     N = 25
     plt.style.use('ggplot')
     plt.figure()
-    plt.plot(np.arange(0,N), H.history['loss'], label='train_loss')
-    plt.plot(np.arange(0,N), H.history['val_loss'], label='val_loss')
+    plt.plot(np.arange(0, N), H.history['loss'], label='train_loss')
+    plt.plot(np.arange(0, N), H.history['val_loss'], label='val_loss')
     plt.title('Bounding Box Regression Loss on Training Set')
     plt.xlabel('Epoch #')
     plt.ylabel('Loss')
     plt.legend(loc='lower left')
     plt.savefig(config.plot_path)
-
-

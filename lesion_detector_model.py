@@ -11,10 +11,10 @@ from keras.layers import Dense, Flatten, BatchNormalization, Dropout
 
 
 def create_nn(num_classes):
-    print("CREATING MODEL: "+config.model_name)
+    print("CREATING MODEL: " + config.model_name)
 
     model = Sequential(name=config.model_name)
-    
+
     if config.model_name == 'resnet50':
         model.add(ResNet50(pooling='avg', weights='imagenet'))  # input_shape = (224,224,3)
         opt = Adam(lr=0.0001)
@@ -36,17 +36,17 @@ def create_nn(num_classes):
     model.add(BatchNormalization())
     model.add(Dense(num_classes, activation='softmax'))
 
-#    model.layers[0].trainable = False
-    
+    #    model.layers[0].trainable = False
+
     model.compile(loss='categorical_crossentropy', optimizer=opt, metrics=['accuracy'])
 
     model.summary()
 
     return model
 
-def restore_model(model_file):
 
-    print("LOADING MODEL from "+ model_file)
+def restore_model(model_file):
+    print("LOADING MODEL from " + model_file)
     model = load_model(model_file)
 
     opt = Adam(lr=0.0001)
@@ -54,4 +54,3 @@ def restore_model(model_file):
     model.summary()
 
     return model
-

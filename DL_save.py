@@ -16,21 +16,21 @@ def load_slices(dir, slice_idxs, fn_out):
     slice_idxs = np.array(slice_idxs)
     assert np.all(slice_idxs[1:] - slice_idxs[:-1] == 1)
     ims = []
-    i=0
+    i = 0
     for slice_idx in slice_idxs:
         fn = '%03d.png' % slice_idx
         fn2 = out_fmt % (dir, slice_idxs[i])
         path = os.path.join(dir_in, dir, fn)
         im = cv2.imread(path, -1)  # -1 is needed for 16-bit image
         assert im is not None, 'error reading %s' % path
-        print ('read', path)
-        
+        print('read', path)
+
         img = (im.astype(np.int32) - 32768).astype(np.int16)
 
         path_out = os.path.join(dir_out, fn2)
         cv2.imwrite(path_out, img)
-        print (fn2, 'saved')
-        i = i+1
+        print(fn2, 'saved')
+        i = i + 1
 
 
 def read_DL_info():
@@ -59,7 +59,7 @@ if __name__ == '__main__':
         os.mkdir(dir_out)
     img_dirs = os.listdir(dir_in)
     img_dirs.sort()
-    
+
     for dir1 in img_dirs:
         # find the image info according to the folder's name
         idxs1 = np.array([int(d) for d in dir1.split('_')])
@@ -75,7 +75,7 @@ if __name__ == '__main__':
         # We group the slices into sub-volumes according to continuity of the slice indices
         groups = []
         for slice_idx in slices:
-            if len(groups) != 0 and slice_idx == groups[-1][-1]+1:
+            if len(groups) != 0 and slice_idx == groups[-1][-1] + 1:
                 groups[-1].append(slice_idx)
             else:
                 groups.append([slice_idx])
