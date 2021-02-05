@@ -104,7 +104,7 @@ def train():
 if __name__ == "__main__":
     H = train()
 
-    print(H.history.keys())
+    #print(H.history.keys())
 
     N = 25
     plt.style.use('ggplot')
