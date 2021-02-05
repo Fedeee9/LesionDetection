@@ -35,19 +35,19 @@ test_dir = dataset_dir + 'test/'
 val_dir = dataset_dir + 'validation/'
 
 # image BB
-dataset_dir = working_dir + 'dataset/'
+dataset_dir = working_dir + 'dataset/prova/'
 train_dir_bb = dataset_dir + 'train'
 test_dir_bb = dataset_dir + 'test'
 val_dir_bb = dataset_dir + 'validation'
 
 # model
-models_dir = working_dir + '/models'
+models_dir = working_dir + 'models'
 model_file = models_dir + model_name + ".h5"
 model_checkpoint = models_dir + model_name + "_checkpoint.h5"
-model_detector = models_dir + model_name + "detector.h5"
+model_detector = models_dir + "/VGG16_detector.h5"
 train_log_dir = working_dir + 'training_logs/'
 train_log_file = train_log_dir + model_name + "_log.csv"
-plot_path = train_log_dir + model_name + "_plot.png"
+plot_path = train_log_dir + "VGG16_plot.png"
 
 batch_size = 32
 total_epochs = 100

@@ -32,6 +32,8 @@ def load_bb(csv, dir_bb):
 
         imagePath = os.path.sep.join([dir_bb, name])
         image = cv2.imread(imagePath)
+        if image is None:
+            break
         (h, w) = image.shape[:2]
 
         # scale the bounding box coordinates relative to the spatial
@@ -102,11 +104,13 @@ def train():
 if __name__ == "__main__":
     H = train()
 
+    print(H.history.keys())
+
     N = 25
     plt.style.use('ggplot')
     plt.figure()
     plt.plot(np.arange(0, N), H.history['loss'], label='train_loss')
-    plt.plot(np.arange(0, N), H.history['val_loss'], label='val_loss')
+    #plt.plot(np.arange(0, N), H.history['val_loss'], label='val_loss')
     plt.title('Bounding Box Regression Loss on Training Set')
     plt.xlabel('Epoch #')
     plt.ylabel('Loss')
