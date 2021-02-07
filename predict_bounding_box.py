@@ -16,7 +16,7 @@ def predict():
     args = vars(ap.parse_args())
 
     filetype = mimetypes.guess_type(args['input'])[0]
-    imagePaths = [args['input']]
+    imagePath = [args['input']]
 
     # if the file type is a text file, then we need to process multiple images
     """if 'text/plain' == filetype:
@@ -30,10 +30,14 @@ def predict():
     print("[INFO] loading object detector...")
     model = load_model(config.model_detector)
 
-    for imagePath in imagePaths:
+    """for imagePath in imagePaths:
         image = load_img(imagePath, target_size=(224, 224))
         image = img_to_array(image) / 255.0
-        image = np.expand_dims(image, axis=0)
+        image = np.expand_dims(image, axis=0)"""
+
+    image = load_img(imagePath, target_size=(224, 224))
+    image = img_to_array(image) / 255.0
+    image = np.expand_dims(image, axis=0)
 
     # make bounding box predictions on the input image
     pred = model.predict(image)[0]
