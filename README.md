@@ -17,5 +17,5 @@ git clone https://github.com/Fedeee9/LesionDetection
 
 
 
-### Credits
+## Credits
 * LesionDetection was developed by Federico Dal Monte
