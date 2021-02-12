@@ -1,6 +1,6 @@
 ##### RESNET50 #####
-# model_name = 'resnet50'
-# input_shape=(224,224,3)
+#model_name = 'resnet50'
+#input_shape=(224,224,3)
 ####################
 
 ##### INCEPTION_V3 #####
@@ -47,7 +47,8 @@ model_checkpoint = models_dir + model_name + "_checkpoint.h5"
 model_detector = models_dir + "/VGG16_detector.h5"
 train_log_dir = working_dir + 'training_logs/'
 train_log_file = train_log_dir + model_name + "_log.csv"
-plot_path = train_log_dir + "VGG16_plot.png"
+plot_path_loss = train_log_dir + "VGG16_plot_loss.png"
+plot_path_acc = train_log_dir + "VGG16_plot_accuracy.png"
 
 batch_size = 32
 total_epochs = 100
