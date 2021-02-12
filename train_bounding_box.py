@@ -88,7 +88,7 @@ def train():
 
     # initialize the optimizer, compile the model and show the model
     opt = Adam(lr=1e-4)
-    model.compile(loss='mse', optimizer=opt)
+    model.compile(loss='mse', optimizer=opt, metrics=['accuracy'])
     print(model.summary())
 
     # train the network for bounding box regression
@@ -104,15 +104,20 @@ def train():
 if __name__ == "__main__":
     H = train()
 
-    #print(H.history.keys())
-
     N = 25
     plt.style.use('ggplot')
     plt.figure()
     plt.plot(np.arange(0, N), H.history['loss'], label='train_loss')
-    #plt.plot(np.arange(0, N), H.history['val_loss'], label='val_loss')
     plt.title('Bounding Box Regression Loss on Training Set')
     plt.xlabel('Epoch #')
     plt.ylabel('Loss')
     plt.legend(loc='lower left')
-    plt.savefig(config.plot_path)
+    plt.savefig(config.plot_path_loss)
+
+    plt.figure()
+    plt.plot(np.arange(0, N), H.history['accuracy'], label='accuracy', color='blue')
+    plt.title('Bounding Box Accuracy on Training Set')
+    plt.xlabel('Epoch #')
+    plt.ylabel('Accuracy')
+    plt.legend(loc='lower left')
+    plt.savefig(config.plot_path_acc)
