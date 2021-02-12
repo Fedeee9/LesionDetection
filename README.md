@@ -1,6 +1,5 @@
 # LesionDetection
-
-Image
+LesionDetection is a simple neural network 
 
 ## Getting Started
 
