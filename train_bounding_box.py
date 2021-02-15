@@ -33,7 +33,7 @@ def load_bb(csv, dir_bb):
         imagePath = os.path.sep.join([dir_bb, name])
         image = cv2.imread(imagePath)
         if image is None:
-            break
+            continue
         (h, w) = image.shape[:2]
 
         # scale the bounding box coordinates relative to the spatial
@@ -57,7 +57,7 @@ def load_bb(csv, dir_bb):
 
 def train():
     print("[INFO] loading dataset...")
-    image_t, box_t, filenames_t = load_bb(config.train_csv, config.train_dir_bb)
+    #image_t, box_t, filenames_t = load_bb(config.train_csv, config.train_dir_bb)
     image_v, box_v, filenames_v = load_bb(config.val_csv, config.val_dir_bb)
 
     # convert the image and the box to NumPy arrays
