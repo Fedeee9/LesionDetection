@@ -9,7 +9,7 @@ from keras.engine.saving import load_model, save_model
 from keras.callbacks import ModelCheckpoint, Callback, EarlyStopping, CSVLogger, ReduceLROnPlateau
 
 
-def train(model, labels, train_images, val_images):
+def train(model, labelsTrain, labelsVal, train_images, val_images):
     print('\nTrain set size: {}'.format(len(train_images)))
     print('Validation set size: {}\n'.format(len(val_images)))
 
@@ -47,7 +47,7 @@ def train(model, labels, train_images, val_images):
                                                          shuffle=True,
                                                          target_size=(config.input_shape[0], config.input_shape[1]),
                                                          class_mode='categorical',
-                                                         classes=labels
+                                                         classes=labelsTrain
                                                          )
 
     image_gen_val = ImageDataGenerator(rescale=1. / 255)
@@ -55,14 +55,15 @@ def train(model, labels, train_images, val_images):
                                                      directory=config.val_dir,
                                                      target_size=(config.input_shape[0], config.input_shape[1]),
                                                      class_mode='categorical',
-                                                     classes=labels
+                                                     classes=labelsVal
                                                      )
+
     print("TRAINING MODEL")
     H = model.fit(x=train_data_gen, epochs=config.total_epochs, steps_per_epoch=steps_train,
                         verbose=1, validation_data=val_data_gen, shuffle=True, validation_steps=steps_val,
                         callbacks=[save_model_callback,  # early_stopping_callback,
                                    reduce_lr_callback, csv_logger_callback])
-
+    """
     # print("SAVING MODEL TO " + config.model_file)
     # model.save(config.model_file, include_optimizer=False)
     shutil.move(config.model_checkpoint, config.model_file)
@@ -75,15 +76,16 @@ def train(model, labels, train_images, val_images):
     print(
         "LOSS: {:5.2f}".format(loss) + " - ACC: {:5.2f}%".format(100 * acc) + " - VAL_LOSS: {:5.2f}".format(
             val_loss) + " - VAL_ACC: {:5.2f}%".format(100 * val_acc))
-    return H
+    return H"""
 
 
 if __name__ == "__main__":
 
     # load file
-    labels = load_labels(config.labels_file)
-    train_file = load_train_csv(config.train_csv)
-    val_file = load_val_csv(config.val_csv)
+    labelsTrain = load_labels(config.labels_train)
+    labelsVal = load_labels(config.labels_val)
+    #train_file = load_train_csv(config.train_csv)
+    #val_file = load_val_csv(config.val_csv)
 
     # load image
     train_images = load_train_dataset(config.train_dir)
@@ -92,8 +94,8 @@ if __name__ == "__main__":
     if os.path.isfile(config.model_checkpoint):
         model = lesion_detector_model.restore_model(config.model_file)
     else:
-        model = lesion_detector_model.create_nn(len(labels))
+        model = lesion_detector_model.create_nn(len(labelsTrain))
 
-    history = train(model, labels, train_images, val_images)
+    history = train(model, labelsTrain, labelsVal, train_images, val_images)
 
     print(history)

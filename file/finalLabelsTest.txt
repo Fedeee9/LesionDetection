@@ -1,0 +1,1761 @@
+mass, right lower lobe, chest, lung, right lung
+metastasis, cancer, mass, liver, abdomen, upper abdomen
+retroperitoneum, abdomen, mass, left adrenal gland, adrenal gland, upper abdomen
+fissure, chest, lung, pleura, nodule
+right lower lobe, chest, lung, right lung
+neck, heterogeneous
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+lymph node, chest
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node, lymphadenopathy, enlargement
+heterogeneous, liver, abdomen, upper abdomen
+axilla, chest, chest wall, axilla lymph node, lymph node, fat
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+liver, abdomen, upper abdomen, metastasis, cancer
+enhancing, axilla, chest, chest wall, axilla lymph node, lymph node
+rib, bone, chest, chest wall
+lymph node, pelvis, subcutaneous fat, subcutaneous, fat
+chest, lung
+chest
+solid pulmonary nodule, nodule, right upper lobe, chest, lung, right lung
+chest
+lymph node, chest
+hyperattenuation, liver, abdomen, upper abdomen
+hypoattenuation, liver, abdomen, upper abdomen
+mediastinum, chest, mediastinum lymph node, lymph node
+chest
+prominent, chest
+chest
+prominent, paraaortic, lymph node
+bone, spine, lumbar
+nodule, groin, pelvis
+chest
+abdomen, liver, upper abdomen
+chest, chest wall
+abdomen, retroperitoneum, kidney, upper abdomen, right kidney, enhancing
+anterior abdominal wall, abdomen, abdominal wall, body wall
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+oval, hypoattenuation, thigh, extremity
+soft tissue, calcified
+chest, lymphadenopathy, enlargement, lymph node
+left upper lung, chest, lung, left lung, mass
+pleura, chest, mass, lung
+nodule, left lower lobe, chest, lung, left lung
+right mid lung, chest, lung, right lung, lung nodule, nodule
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, paraaortic
+left upper lung, chest, lung, left lung, nodule
+anterior mediastinum, chest, mediastinum, mass
+abdomen, retroperitoneum, kidney, upper abdomen, right kidney, enhancing
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+chest, lung, consolidation, right lower lobe, right lung
+exophytic, abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+large, mass, chest, lung, scar
+indistinct, hypoattenuation, liver, abdomen, upper abdomen, mass
+hypoattenuation, abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+left kidney, abdomen, retroperitoneum, kidney, kidney cyst, cyst, upper abdomen
+chest
+aorticopulmonary window, chest, mediastinum, lymph node
+supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum, hypoattenuation, necrosis
+pelvis lymph node, pelvis, lymph node
+left lower lobe, chest, lung, left lung
+lung nodule, lung, chest, nodule
+mediastinum lymph node, mediastinum, chest, lymph node, paraaortic
+axilla lymph node, axilla, chest, chest wall, lymph node
+superior mediastinum, chest, mediastinum, superior mediastinum lymph node, lymph node, mediastinum lymph node
+lung nodule, lung, chest, nodule, left lower lobe, left lung
+left upper lung, chest, lung, left lung
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+hypoattenuation, liver, abdomen, upper abdomen
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+liver mass, liver, abdomen, mass
+mesentery, abdomen, mass, calcified
+hypoattenuation, mass
+lobular, pleura, chest, mass, lung base, lung, right lung
+right mid lung, chest, lung, right lung, cavitary
+cyst, solid, mass
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+chest
+large, nodule, right lower lobe, chest, lung, right lung, ground-glass opacity, opacity
+abdomen, subcutaneous, soft tissue, nodule
+subcutaneous, nodule, thickening, breast, chest
+mass, peritoneum, abdomen, nodule
+enlargement, mass
+mesentery, abdomen, nodule
+abdomen, spleen, upper abdomen
+left kidney, abdomen, retroperitoneum, kidney, adrenal gland, upper abdomen
+soft tissue, nodule, chest wall, chest
+groin, pelvis, calcified, nodule
+left upper lung, chest, lung, left lung, lung nodule, nodule
+prominent, paraaortic, lymph node
+large, omentum, abdomen, mass, upper abdomen
+right lung, chest, lung, right lower lobe
+mediastinum lymph node, mediastinum, chest, lymph node
+mediastinum lymph node, mediastinum, chest, lymph node, large
+chest, mass
+chest
+chest, lung, right lower lobe, right lung, nodule
+abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+left hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+right thyroid lobe, neck, thyroid gland, mass
+spleen, abdomen, upper abdomen
+hypoattenuation, liver, abdomen, upper abdomen
+liver, abdomen, upper abdomen, indistinct, hypoattenuation
+mass, chest
+pelvis, bone
+bone, spine, lumbar
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+enhancing, liver, abdomen, upper abdomen, nodule
+pelvis, pelvic wall, lymph node
+large, mass, right kidney, abdomen, retroperitoneum, kidney
+indistinct, hyperattenuation, pelvic bone, bone, pelvis
+chest, mass
+superior mediastinum, chest, mediastinum, fat, lymphadenopathy, enlargement, lymph node
+chest, lung
+lytic, bone, pelvic bone, pelvis
+hypoattenuation, liver, abdomen, upper abdomen
+prominent, right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+chest
+lingula, chest, lung, left lung, left upper lung, airway, bronchus
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+right lung, chest, lung, cavitary, nodule
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+adrenal gland, abdomen, retroperitoneum, upper abdomen, nodule
+abdomen, hypoattenuation, mass
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+chest
+enhancing, liver, abdomen, upper abdomen, nodule
+enhancing, mass
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+paraaortic, lymph node
+soft tissue attenuation, nonenhancing, pancreatic tail, abdomen, retroperitoneum, pancreas, mass
+nodule, enhancing, hemangioma, blood vessel
+nodule, opacity, right mid lung, chest, lung, right lung
+mediastinum lymph node, mediastinum, chest, lymph node, subcarinal lymph node
+liver mass, liver, abdomen, mass, exophytic
+enhancing, liver, abdomen, upper abdomen
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+iliac lymph node, pelvis, lymph node, pelvis lymph node
+aorticopulmonary window, chest, mediastinum, lymphadenopathy, enlargement, lymph node
+anterior mediastinum, chest, mediastinum, mass
+left lung, chest, lung
+lymph node, chest
+spiculated, liver, abdomen, upper abdomen
+bone, sclerotic
+chest
+solid, kidney, abdomen, retroperitoneum, upper abdomen
+oval, mass, pelvis
+lung nodule, lung, chest, nodule, left lower lobe, left lung
+sclerotic, bone, spine, lumbar, vertebral body
+nodule, left lung, chest, lung
+anterior mediastinum, chest, mediastinum, mediastinum lymph node, lymph node
+abdomen, liver, upper abdomen
+hyperattenuation, retroperitoneum, abdomen, fluid
+pelvis, common iliac lymph node, lymph node, pelvis lymph node
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+anterior mediastinum, chest, mediastinum
+liver, abdomen, upper abdomen, hypoattenuation
+spleen, abdomen, upper abdomen
+nodule, abdomen, soft tissue
+spleen, abdomen, upper abdomen, hypoattenuation
+pretracheal lymph node, chest, lymph node, superior mediastinum lymph node, mediastinum lymph node
+chest
+nodule, right lung, chest, lung, lung base
+paraaortic, lymphadenopathy, enlargement, lymph node
+enlargement, lymphadenopathy, lymph node, mediastinum, chest, aorticopulmonary window
+large, enhancing, mass
+axilla, chest, chest wall, mediastinum lymph node, mediastinum, lymph node
+sclerotic, bone, pelvis, pelvic bone
+chest
+chest
+liver, abdomen, upper abdomen
+enhancing, anterior mediastinum, chest, mediastinum, nodule
+abdomen, liver, upper abdomen
+left kidney, abdomen, retroperitoneum, kidney, enhancing, solid, mass, upper abdomen
+liver, abdomen, upper abdomen
+spleen, abdomen, upper abdomen
+hilum, mass
+large, liver, abdomen, upper abdomen
+breast, chest, mass
+calcified, nodule, liver, abdomen, upper abdomen
+chest
+chest
+enlargement, pelvis, lymph node
+chest
+diffuse, mediastinum, chest, lymphadenopathy, enlargement, lymph node, subcarinal lymph node, mediastinum lymph node
+fluid, liver, abdomen, upper abdomen, enhancing, simple cyst, cyst
+enlargement, pelvis, mass
+kidney, abdomen, retroperitoneum, upper abdomen, hypoattenuation, left kidney
+left lower lobe, chest, lung, left lung
+chest
+chest
+soft tissue attenuation, lymph node, mediastinum, chest
+prominent, lymph node
+right lung, chest, lung, lung base
+lung nodule, lung, chest, nodule, right lower lobe, right lung, left lower lobe, left lung
+left lung, chest, lung, lung nodule, nodule
+pelvis, lymph node, pelvic wall
+hypoattenuation, liver, abdomen, upper abdomen
+nodule, lung, chest
+consolidation, right upper lobe, chest, lung, right lung
+liver, abdomen, upper abdomen
+prominent, right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+nodule, right adrenal gland, abdomen, retroperitoneum, adrenal gland
+nodule, right upper lobe, chest, lung, right lung
+left upper lung, chest, lung, left lung
+left upper lung, chest, lung, left lung, mass
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, hypoattenuation, nodule
+groin lymph node, groin, pelvis, lymph node, pelvis lymph node
+breast, chest, mass
+hypoattenuation, peritoneum, abdomen, mass
+mediastinum lymph node, mediastinum, chest, lymph node
+enhancing, pancreas, abdomen, retroperitoneum, upper abdomen
+soft tissue, mass, thigh, extremity
+lung nodule, lung, chest, nodule
+axilla, chest, chest wall, mass
+perihilar, nodule
+chest, lymphadenopathy, enlargement, lymph node
+blood vessel, lymph node
+left lower lobe, chest, lung, left lung
+axilla, chest, chest wall
+chest
+hyperattenuation, liver, abdomen, upper abdomen
+liver, abdomen, upper abdomen, hypoattenuation
+porta Hepatis, abdomen, liver, soft tissue, mass
+prominent, mediastinum lymph node, mediastinum, chest, lymph node, calcified, supraclavicular lymph node
+hyperattenuation, left adrenal gland, abdomen, retroperitoneum, adrenal gland
+lung base, chest, lung, left lung, nodule
+hypoattenuation, liver mass, liver, abdomen, mass
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+left lower lobe, chest, lung, left lung
+chest
+indistinct, liver, abdomen, upper abdomen
+chest
+chest, mass
+nodule, mass, chest, lung
+nodule, right lower lobe, chest, lung, right lung
+hypoattenuation, mass
+chest, pleura, lung, right lower lobe, right lung
+indistinct, right lung, chest, lung
+large, chest
+soft tissue, nodule, chest wall, chest
+liver, abdomen, upper abdomen
+right lower lobe, chest, lung, right lung, nodule
+retroperitoneum, abdomen, enhancing, paraaortic, mass
+lumbar, bone, spine, sclerotic
+hypoattenuation, indistinct
+indistinct, kidney, abdomen, retroperitoneum, upper abdomen, infiltrate
+pelvis, common iliac lymph node, lymph node, pelvis lymph node
+noncalcified, solid pulmonary nodule, nodule, right upper lobe, chest, lung, right lung
+pelvis, lymph node
+chest, hypoattenuation, mass
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+soft tissue, mass, mediastinum, chest
+aorticopulmonary window, chest, mediastinum, lymph node
+chest
+paracaval lymph node, lymph node, abdomen lymph node, abdomen
+calcified, pelvis
+mass, chest
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node, common iliac lymph node
+nodule, thickening, extremity, left adrenal gland, abdomen, retroperitoneum, adrenal gland
+chest
+spleen, abdomen, upper abdomen, hypoattenuation
+spiculated, enhancing, liver, abdomen, upper abdomen
+left lower lobe, chest, lung, left lung, lung nodule, nodule
+pelvis, mass
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, nodule
+mediastinum lymph node, mediastinum, chest, lymph node
+chest, pleura, lung, left lower lobe, left lung
+groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+chest
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+paracaval lymph node, lymph node, abdomen lymph node, abdomen
+hypoattenuation, peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+spleen, abdomen, upper abdomen
+pretracheal lymph node, chest, lymph node, superior mediastinum lymph node, mediastinum lymph node
+aorta, blood vessel
+lymph node, pelvis
+enlargement, porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+mediastinum lymph node, mediastinum, chest, lymph node, blood vessel
+pancreas, abdomen, retroperitoneum, upper abdomen, indistinct, hypoattenuation
+heterogeneous, left adrenal gland, abdomen, retroperitoneum, adrenal gland, mass
+large, mass, right upper lobe, chest, lung, right lung
+upper abdomen, abdomen, abdomen lymph node, lymph node, lymphadenopathy, enlargement, paraaortic
+soft tissue, mass, extremity
+liver, abdomen, upper abdomen, liver mass, mass
+large, enhancing, calcified, liver, abdomen, upper abdomen
+aorticopulmonary window, chest, mediastinum, lymphadenopathy, enlargement, lymph node
+hypoattenuation, liver, abdomen, upper abdomen, circumscribed
+nodule, extremity
+large, liver, abdomen, upper abdomen, metastasis, cancer
+large, axilla, chest, chest wall, axilla lymph node, lymph node
+nodule, opacity, right upper lobe, chest, lung, right lung
+fissure, chest, lung, nodule
+chest
+tiny, abdomen, liver, upper abdomen
+subcentimeter, right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+spleen, abdomen, upper abdomen
+mediastinum lymph node, mediastinum, chest, lymph node, superior mediastinum, superior mediastinum lymph node
+subcutaneous, nodule, extremity
+enhancing, groin lymph node, groin, pelvis, lymph node, pelvis lymph node
+chest
+kidney, abdomen, retroperitoneum, upper abdomen
+chest
+lymphadenopathy, enlargement, lymph node
+ground-glass opacity, opacity, nodule, right lower lobe, chest, lung, right lung
+right lower lobe, chest, lung, right lung
+mass, liver, abdomen, upper abdomen
+fissure, chest, lung, nodule
+hypoattenuation, superior mediastinum, chest, mediastinum, mediastinum lymph node, lymph node
+bone, sclerotic, metastasis, cancer
+trachea, chest, airway
+retroperitoneum, abdomen, mass, pancreas, upper abdomen
+right upper lobe, chest, lung, right lung, soft tissue, nodule
+lytic, bone, spine, lumbar, vertebral body, soft tissue, mass
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node, common iliac lymph node
+tiny, subcutaneous, fluid
+lymph node, prominent
+liver mass, liver, abdomen, mass, upper abdomen
+left upper lung, chest, lung, left lung
+paraaortic, lymph node
+enlargement, pelvis
+left kidney, abdomen, retroperitoneum, kidney
+bone, metastasis, cancer
+retroperitoneum, abdomen
+peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+nodule, left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen
+right lower lobe, chest, lung, right lung
+anterior mediastinum, chest, mediastinum
+pancreas, abdomen, retroperitoneum, upper abdomen, enhancing
+mediastinum lymph node, mediastinum, chest, lymph node
+mediastinum lymph node, mediastinum, chest, lymph node
+cyst, left kidney, abdomen, retroperitoneum, kidney
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, paraaortic
+retroperitoneum, abdomen, lymphadenopathy, enlargement, lymph node, paraaortic
+hilum lymph node, hilum, lymph node, mediastinum lymph node, mediastinum, chest
+mass, fat
+hypoattenuation, cardiophrenic, chest, mass
+large, calcified
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+exophytic, nodule
+lung base, chest, lung, right lung, pleura, mass
+upper abdomen, abdomen, lymph node
+axilla, chest, chest wall
+hyperattenuation, pancreas, abdomen, retroperitoneum, upper abdomen, pancreatic head, mass
+mass, left adrenal gland, abdomen, retroperitoneum, adrenal gland, left kidney, kidney
+nodule, right mid lung, chest, lung, right lung
+abdomen, soft tissue, nodule
+diffuse, thin, cyst, large, fat-containing
+chest
+right lung, chest, lung, lung mass, mass
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+cardiophrenic, chest, mass
+chest, lymph node
+cyst, pelvis, ovary
+pleura, chest, right lung, lung, lung base
+chest
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+liver, abdomen, upper abdomen
+axilla, chest, chest wall, axilla lymph node, lymph node
+hyperattenuation, mass, chest
+nodule, chest, lung, fissure
+indistinct, enhancing, mass
+chest
+solid, cyst, kidney, abdomen, retroperitoneum, upper abdomen
+calcified, mass, liver, abdomen, upper abdomen
+retrocrural lymph node, lymph node, abdomen lymph node, abdomen
+peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+hypoattenuation, liver, abdomen, upper abdomen
+fluid, subcutaneous fat, subcutaneous, fat, body wall
+nodule, left lower lobe, chest, lung, left lung
+left hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+enhancing, nodule, muscle, body wall
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+chest
+spiculated, nodule, right lower lobe, chest, lung, right lung, cavitary
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node, metastasis, cancer
+calcified, mass, liver, abdomen, upper abdomen
+left lower lobe, chest, lung, left lung, nodule, scar
+abdomen, mass
+soft tissue attenuation, neck
+pericardium, chest, mediastinum, fat, soft tissue, metastasis, cancer
+peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+chest, lung
+liver, abdomen, upper abdomen, hypoattenuation
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+peritoneum, abdomen
+prominent, mediastinum lymph node, mediastinum, chest, lymph node
+lymph node, neck, chest
+chest
+cervix, lymph node
+axilla, chest, chest wall, axilla lymph node, lymph node
+hypoattenuation, spleen, abdomen, upper abdomen, hilum
+reticular, ground-glass opacity, opacity, nodule, left upper lung, chest, lung, left lung
+lymph node, hilum
+abdomen, intestine, small bowel
+right lung, chest, lung, lung nodule, nodule, right mid lung, mass
+chest, lung
+upper abdomen, abdomen, paraaortic, lymphadenopathy, enlargement, lymph node
+paraaortic, lymph node
+chest
+large, mass
+right upper lobe, chest, lung, right lung
+hypoattenuation, thyroid gland, neck
+lung nodule, lung, chest, nodule
+enhancing, liver, abdomen, upper abdomen
+lung mass, lung, chest, mass, metastasis, cancer
+enhancing, pancreas, abdomen, retroperitoneum, upper abdomen, pancreatic head, mass
+cyst, abdomen, retroperitoneum, kidney, kidney cyst
+hypoattenuation, mass, pancreatic head, abdomen, retroperitoneum, pancreas
+left adrenal gland, abdomen, retroperitoneum, adrenal gland
+enhancing, mass, abdominal wall, abdomen, body wall
+pleura, chest, nodule, lung base, lung, right lung
+pelvis, lymph node
+hypoattenuation, abdomen, liver, upper abdomen
+exophytic, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+mediastinum lymph node, mediastinum, chest, lymph node
+gallbladder, abdomen, biliary system
+mediastinum, chest, hilum lymph node, hilum, lymph node, mediastinum lymph node, lymphadenopathy, enlargement
+chest
+heterogeneous, enhancing, mass, left kidney, abdomen, retroperitoneum, kidney, hypoattenuation, calcified
+chest, lymph node
+vertebral body, bone, spine, lytic
+mass, extremity
+pelvis, lymph node
+liver, abdomen, upper abdomen
+large, enhancing, mediastinum, chest, mass, sternum, bone, chest wall
+bronchus, chest, airway
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+pancreas, abdomen, retroperitoneum, upper abdomen, mass
+chest
+indistinct, hypoattenuation, hilum
+chest
+hypoattenuation, spleen, abdomen, upper abdomen
+nodule, chest, lung
+hypoattenuation, mediastinum lymph node, mediastinum, chest, lymph node
+chest
+mass, left upper lung, chest, lung, left lung
+supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum, necrosis
+large, subpleural, chest, paraspinal, mass, fissure, lung, right lung
+right kidney, abdomen, retroperitoneum, kidney, kidney cyst, cyst
+cavitary, lung nodule, lung, chest, nodule, left upper lung, left lung
+cyst, left kidney, abdomen, retroperitoneum, kidney, upper abdomen
+right mid lung, chest, lung, right lung
+pelvis, pelvic wall, lymphadenopathy, enlargement, lymph node
+axilla, chest, chest wall, axilla lymph node, lymph node
+mediastinum, chest
+chest, conglomerate, nodule
+pretracheal lymph node, chest, lymph node, superior mediastinum lymph node, mediastinum lymph node
+right upper lobe, chest, lung, right lung, nodule
+common iliac lymph node, pelvis, lymph node, pelvis lymph node
+hypoattenuation, nodule, thyroid gland, neck
+mediastinum, chest, mediastinum lymph node, lymph node
+chest
+enhancing, fat-containing, solid, mass, abdomen, retroperitoneum, kidney, upper abdomen, left kidney, lipoma
+enhancing, soft tissue, mass
+nodule, pancreatic tail, abdomen, retroperitoneum, pancreas
+mass, liver, abdomen, upper abdomen
+left lower lobe, chest, lung, left lung, scar, nodule
+hilum, mass
+exophytic, kidney, abdomen, retroperitoneum, upper abdomen, lipoma
+pelvis, mass
+pelvis, mass
+left kidney, abdomen, retroperitoneum, kidney, cyst
+lymph node, chest
+chest
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+solid, liver, abdomen, upper abdomen
+chest
+body wall, nodule
+liver, abdomen, upper abdomen, hypoattenuation, cyst
+soft tissue, mass, extremity
+mediastinum, chest, lymphadenopathy, enlargement, lymph node
+chest
+hypoattenuation, spleen, abdomen, upper abdomen
+mass, left adrenal gland, abdomen, retroperitoneum, adrenal gland
+circumscribed, hypoattenuation, lung nodule, lung, chest, nodule
+chest, lung
+subcarinal lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+mesentery, abdomen, soft tissue, mass, lymph node
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+solid, nodule, left lower lobe, chest, lung, left lung
+hypoattenuation, right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+abdomen, mass, peritoneum, metastasis, cancer
+chest, lung mass, lung, mass
+thin, fat-containing, hilum
+nodule, right lower lobe, chest, lung, right lung
+groin, pelvis, calcified, lymph node
+chest, lung
+cavitary, nodule, right upper lobe, chest, lung, right lung
+nodule, right mid lung, chest, lung, right lung
+supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+hypoattenuation, mass, liver, abdomen, upper abdomen
+abdomen, abdominal wall, body wall, mass
+abdomen, hypoattenuation
+pelvis, pelvic wall
+left kidney, abdomen, retroperitoneum, kidney
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, blood vessel
+soft tissue, mass, diaphragm, chest
+lung mass, lung, chest, mass, metastasis, cancer, left lung, lung nodule, nodule
+hypoattenuation, liver, abdomen, upper abdomen
+fluid, kidney, abdomen, retroperitoneum, upper abdomen
+chest
+nodule, chest, lung
+sclerotic, bone, spine, lumbar
+liver, abdomen, upper abdomen, hypoattenuation
+lymph node, chest
+mediastinum, chest
+fissure, chest, lung, nodule
+nodule, left lower lobe, chest, lung, left lung
+retroperitoneum, abdomen, mass
+liver, abdomen, upper abdomen
+subcentimeter, mesentery, abdomen
+liver, abdomen, upper abdomen, hypoattenuation
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+hypoattenuation, indistinct
+peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+liver, abdomen, upper abdomen, enhancing
+right mid lung, chest, lung, right lung, nodule
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node, common iliac lymph node
+large, left lung, chest, lung, lung nodule, nodule
+skin, mass, axilla, chest, chest wall
+lymphadenopathy, enlargement, lymph node
+large, mass, right lower lobe, chest, lung, right lung
+lymph node, chest
+calcified, mass
+subcutaneous, mass, anterior abdominal wall, abdomen, abdominal wall, body wall
+left upper lung, chest, lung, left lung
+perihilar, hypoattenuation, mass
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node, conglomerate, mass
+prominent, lymph node, chest
+enhancing, mediastinum, chest, lymphadenopathy, enlargement, lymph node
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, hypoattenuation, upper abdomen, adenoma
+hypoattenuation, liver, abdomen, upper abdomen
+mediastinum, chest, mass
+chest, mass
+groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+prominent, lymph node, chest
+liver, abdomen, upper abdomen, hypoattenuation
+mass, calcified
+nodule, opacity, pleura, chest, lingula, lung, left lung, left upper lung
+chest
+chest, necrosis, lymphadenopathy, enlargement, lymph node
+abdomen, soft tissue, nodule
+enlargement, indistinct, hypoattenuation, liver, abdomen, upper abdomen
+pelvis, lymph node
+chest, enhancing, soft tissue, conglomerate
+retroperitoneum, abdomen, lymph node
+aorticopulmonary window, chest, mediastinum, mass
+liver, abdomen, upper abdomen
+lytic, bone, pelvis
+chest
+spiculated, liver, abdomen, upper abdomen, hypoattenuation, metastasis, cancer
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node, common iliac lymph node
+large, omentum, abdomen, pelvis
+left lower lobe, chest, lung, left lung, nodule
+hypoattenuation, liver, abdomen, upper abdomen
+subcutaneous, nodule, groin, pelvis
+soft tissue, nodule, metastasis, cancer, lymphadenopathy, enlargement, lymph node, paraaortic
+enlargement, indistinct, hypoattenuation, liver, abdomen, upper abdomen, retroperitoneum, kidney
+mesentery, abdomen, lymphadenopathy, enlargement, lymph node
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, metastasis, cancer
+blood vessel, abdomen, mesentery
+enhancing, soft tissue, axilla, chest, chest wall
+hypoattenuation, ovary, pelvis
+fat-containing, hilum
+anterior mediastinum, chest, mediastinum, hypoattenuation, soft tissue, mass
+right upper lobe, chest, lung, right lung, nodule, opacity
+lymph node, chest
+nodule, thyroid gland, neck
+large, thyroid gland, neck, hypoattenuation, nodule
+soft tissue, mass, hilum, left upper lung, chest, lung, left lung
+left upper lung, chest, lung, left lung, nodule
+hypoattenuation, liver, abdomen, upper abdomen
+spine, bone, thoracic spine, chest
+mass, chest, lung, left lower lobe, left lung
+nodule, pleura, chest, fissure, lung, thickening, mass
+anterior mediastinum, chest, mediastinum, mass
+lobular, nodule, right upper lobe, chest, lung, right lung
+prominent, axilla, chest, chest wall, axilla lymph node, lymph node
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+lung nodule, lung, chest, nodule
+lytic, bone, thoracic spine, spine, chest
+liver, abdomen, upper abdomen
+large, enhancing, axilla, chest, chest wall, mass
+chest
+pelvis, pelvic wall, lymphadenopathy, enlargement, lymph node
+large, pelvis, mass
+indistinct, paraaortic, soft tissue attenuation, blood vessel, abdomen, mesentery
+hilum lymph node, hilum, lymph node, mediastinum lymph node, mediastinum, chest
+indistinct, liver, abdomen, upper abdomen, enhancing
+liver, abdomen, upper abdomen, mass
+pelvis, mass
+hypoattenuation, liver, abdomen, upper abdomen
+aorticopulmonary window, chest, mediastinum, lymph node
+chest, lung, right lower lobe, right lung
+chest
+pelvis, mass
+sclerotic, bone, lytic
+large, nodule, right lower lobe, chest, lung, right lung
+left hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+lung nodule, lung, chest, nodule, left upper lung, left lung
+left upper lung, chest, lung, left lung, ground-glass opacity, opacity, nodule
+chest
+adrenal gland, abdomen, retroperitoneum, upper abdomen, hypoattenuation, mass
+paracaval lymph node, lymph node, abdomen lymph node, abdomen
+thickening, urinary bladder, pelvis, enhancing, nodule
+indistinct, lucent, bone, spine, lumbar
+perihilar, nodule
+right lower lobe, chest, lung, right lung, lung nodule, nodule
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+liver, abdomen, upper abdomen, enhancing, nodule
+hypoattenuation, liver, abdomen, upper abdomen
+lung mass, lung, chest, mass, metastasis, cancer
+nodule, extremity, left adrenal gland, abdomen, retroperitoneum, adrenal gland
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, abdomen lymph node, conglomerate
+chest
+left kidney, abdomen, retroperitoneum, kidney, fluid, cyst
+kidney, abdomen, retroperitoneum, upper abdomen
+lytic, bone, sclerotic, abdomen, intestine, small bowel, pelvis
+hypoattenuation, groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+enhancing, abdomen, retroperitoneum, kidney, upper abdomen
+mass, skin, thickening, axilla, chest, chest wall
+right lower lobe, chest, lung, right lung
+mass, consolidation, lingula, chest, lung, left lung, left upper lung
+liver, abdomen, upper abdomen
+anterior mediastinum, chest, mediastinum, mass
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node
+enhancing, abdomen, retroperitoneum, pancreas
+calcified, lung mass, lung, chest, mass
+nodule, lung, chest
+pelvis lymph node, pelvis, lymph node
+chest, lung
+pelvis, lymphadenopathy, enlargement, lymph node, pelvic wall
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule, hypoattenuation
+mesentery, abdomen, pelvis
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+lytic, bone, spine, lumbar
+fat, abdomen, retroperitoneum, mass
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, blood vessel
+fluid, subcutaneous fat, subcutaneous, fat
+chest
+paraaortic, lymph node
+mediastinum lymph node, mediastinum, chest, lymph node
+large, calcified, soft tissue attenuation, mass, soft tissue
+enhancing, groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+paraaortic, lymph node
+mediastinum lymph node, mediastinum, chest, lymph node
+mass, chest, lung
+calcified, mass, right thyroid lobe, neck, thyroid gland
+abdomen, liver, upper abdomen, hypoattenuation, enhancing
+liver, abdomen, upper abdomen, hypoattenuation
+soft tissue, thickening, bone, pelvic bone, pelvis
+abdomen, retroperitoneum lymph node, retroperitoneum, lymph node
+left upper lung, chest, lung, left lung, patchy, opacity
+mediastinum lymph node, mediastinum, chest, lymph node
+enhancing, left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+chest
+mediastinum lymph node, mediastinum, chest, lymph node, blood vessel
+chest
+large, chest
+enhancing, left kidney, abdomen, retroperitoneum, kidney, upper abdomen, mass
+retrocrural lymph node, lymph node, abdomen lymph node, abdomen
+chest
+abdomen, liver, upper abdomen
+fluid, chest, subcutaneous fat, subcutaneous, fat
+large, pancreas, abdomen, retroperitoneum, upper abdomen, cyst
+hypoattenuation, liver, abdomen, upper abdomen
+sclerotic, bone, abdomen, intestine, small bowel, pelvis
+omentum, abdomen, mass
+lung nodule, lung, chest, nodule, right lower lobe, right lung
+lymph node, chest
+hypoattenuation, liver, abdomen, upper abdomen
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, conglomerate
+cyst, abdomen
+lymph node, chest, mediastinum, mass
+enlargement, lobular mass, lobular, mass, mediastinum, chest, nodule
+lymphadenopathy, enlargement, lymph node
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+indistinct, soft tissue, mass
+lung nodule, lung, chest, nodule, left upper lung, left lung
+mass, liver, abdomen, upper abdomen
+mediastinum, chest, right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, aorticopulmonary window
+groin lymph node, groin, pelvis, lymph node, pelvis lymph node
+anterior mediastinum, chest, mediastinum, mass
+pleura, chest, mass
+calcified, mass
+chest
+lymph node, abdomen
+enhancing, mass, pancreatic head, abdomen, retroperitoneum, pancreas
+right lower lobe, chest, lung, right lung
+tiny, right lower lobe, chest, lung, right lung, nodule
+left upper lung, chest, lung, left lung
+soft tissue, mass
+liver, abdomen, upper abdomen
+left lower lobe, chest, lung, left lung
+left lower lobe, chest, lung, left lung
+hyperattenuation, anterior mediastinum, chest, mediastinum, mass
+retroperitoneum, abdomen, lymph node
+indistinct, enhancing, liver, abdomen, upper abdomen
+enhancing, abdomen, liver, upper abdomen
+chest
+right upper lobe, chest, lung, right lung, nodule
+pelvis, pelvic wall, lymph node
+large, mass
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, soft tissue, mass
+retroperitoneum, abdomen, lymphadenopathy, enlargement, lymph node, paraaortic, mass
+enhancing, liver, abdomen, upper abdomen
+anterior mediastinum, chest, mediastinum, scar
+liver, abdomen, upper abdomen
+chest
+nodule, left upper lung, chest, lung, left lung
+chest, lymph node
+lymph node, abdomen
+psoas muscle, muscle, paraspinal muscle, paraspinal, mass
+indistinct, hypoattenuation, mass, pancreatic body, abdomen, retroperitoneum, pancreas
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+vertebral body, bone, spine
+liver, abdomen, upper abdomen
+large, mass, chest
+hypoattenuation, abdomen, liver, upper abdomen, metastasis, cancer
+liver, abdomen, upper abdomen, hypoattenuation
+lymphadenopathy, enlargement, lymph node, chest, hilum, mass
+pelvis, spine, bone, sclerotic, lumbar
+nodule, retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+lung, chest, right lower lobe, right lung
+enhancing, pancreatic head, abdomen, retroperitoneum, pancreas
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+mass, blood vessel
+spiculated, right lung, chest, lung, lung nodule, nodule
+paraaortic, lymphadenopathy, enlargement, lymph node
+lung mass, lung, chest, mass, metastasis, cancer
+hypoattenuation, breast, chest, mass, abdomen, liver, upper abdomen
+paraaortic, lymph node, retroperitoneum, abdomen
+lytic, bone, spine, enlargement, thoracic spine, chest, vertebral body
+lung nodule, lung, chest, nodule
+paraaortic, lymph node
+lymphadenopathy, enlargement, lymph node
+subcarinal lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+mass, chest
+pelvis, diffuse, sclerotic, bone, indistinct, soft tissue
+prominent, right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+mediastinum, chest, hilum lymph node, hilum, lymph node, mediastinum lymph node
+soft tissue, mass
+pancreas, abdomen, retroperitoneum, upper abdomen, cyst
+mass, liver, abdomen, upper abdomen
+anterior mediastinum, chest, mediastinum
+adrenal gland, abdomen, retroperitoneum, upper abdomen, nodule
+tiny, oval, nodule, right upper lobe, chest, lung, right lung
+nodule, lung base, chest, lung, right lower lobe, right lung
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+enlargement, lymph node, chest
+ground-glass opacity, opacity, nodule, chest, lung
+right lower lobe, chest, lung, right lung, lung mass, mass
+subcutaneous, nodule, chest, chest wall
+chest, supraclavicular lymph node, lymph node, mediastinum lymph node, mediastinum
+nodule, right lung, chest, lung
+indistinct, liver, abdomen, upper abdomen, enhancing
+anterior abdominal wall, abdomen, abdominal wall, body wall, enhancing
+left upper lung, chest, lung, left lung, nodule, ground-glass opacity, opacity
+chest
+mass, abdomen, subcutaneous fat, subcutaneous, fat
+chest, lymph node
+mediastinum, chest, lymph node
+right adrenal gland, abdomen, retroperitoneum, adrenal gland
+lung nodule, lung, chest, nodule, left lower lobe, left lung, mass
+lymph node, chest
+soft tissue, mass, extremity
+lymph node, hilum, mass
+liver, abdomen, upper abdomen
+liver, abdomen, upper abdomen
+chest
+hypoattenuation, pancreas, abdomen, retroperitoneum, upper abdomen
+chest
+soft tissue, large
+hilum, calcified
+noncalcified, lung nodule, lung, chest, nodule, right lower lobe, right lung
+paraaortic, iliac lymph node, pelvis, lymph node, pelvis lymph node
+right upper lobe, chest, lung, right lung, indistinct, ground-glass opacity, opacity
+chest
+subcutaneous, thigh, extremity
+enhancing, liver, abdomen, upper abdomen
+chest, pleura, enhancing, mass, lung
+retrocrural lymph node, lymph node, abdomen lymph node, abdomen
+right upper lobe, chest, lung, right lung, lung nodule, nodule
+hypoattenuation, liver, abdomen, upper abdomen
+chest
+urinary bladder, pelvis
+lung nodule, lung, chest, nodule, right lower lobe, right lung
+soft tissue, nodule, fat, chest, mediastinum
+liver, abdomen, upper abdomen
+lung, chest
+chest
+chest
+groin, pelvis, lymphadenopathy, enlargement, lymph node
+cyst, left kidney, abdomen, retroperitoneum, kidney
+chest
+indistinct, heterogeneous, enhancing, liver, abdomen, upper abdomen
+liver, abdomen, upper abdomen
+chest
+hilum, lymph node
+chest, lung, nodule
+chest
+left lower lobe, chest, lung, left lung, nodule
+pelvis, lymphadenopathy, enlargement, lymph node
+cardiophrenic, chest, lymph node, mediastinum lymph node, mediastinum
+lobular, stomach, abdomen, upper abdomen, mass
+hypoattenuation, liver, abdomen, upper abdomen
+large, expansile, bone
+lymph node, chest
+heterogeneous, chest, lymph node
+cardiophrenic, chest, mass
+hypoattenuation, liver, abdomen, upper abdomen
+nodule, thyroid gland, neck
+abdomen, abdominal wall, body wall, mass
+pelvis, lymph node, pelvic wall
+soft tissue attenuation, nodule, mass, chest
+lymph node, neck
+prominent, mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+lung, chest, left lower lobe, left lung, perihilar
+right upper lobe, chest, lung, right lung, ground-glass opacity, opacity, nodule
+large, groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+peritoneum, abdomen, metastasis, cancer
+right kidney, abdomen, retroperitoneum, kidney, upper abdomen, hypoattenuation
+abdomen, retroperitoneum, kidney, upper abdomen, right kidney, enhancing
+cavitary, right lower lobe, chest, lung, right lung, nodule
+hypoattenuation, porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node, retroperitoneum lymph node, retroperitoneum
+chest
+bone, sclerotic, metastasis, cancer
+anterior mediastinum, chest, mediastinum
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, adenoma
+tiny, enhancing, exophytic
+right upper lobe, chest, lung, right lung
+liver, abdomen, upper abdomen, calcified
+liver, abdomen, upper abdomen, cyst
+nodule, chest, lung, right upper lobe, right lung
+ground-glass opacity, opacity, lingula, chest, lung, left lung, left upper lung
+liver, abdomen, upper abdomen
+groin, pelvis, fluid
+hypoattenuation, nodule, opacity
+axilla lymph node, axilla, chest, chest wall, lymph node
+right lower lobe, chest, lung, right lung, nodule
+liver, abdomen, upper abdomen
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+chest
+chest, supraclavicular lymph node, lymph node, mediastinum lymph node, mediastinum
+extremity, nodule
+soft tissue attenuation, pleura, chest, left lower lobe, lung, left lung
+prominent, lymph node, chest
+large, mediastinum lymph node, mediastinum, chest, lymph node
+right kidney, abdomen, retroperitoneum, kidney, hypoattenuation
+chest
+abdomen, mesentery, nodule
+enlargement, right thyroid lobe, neck, thyroid gland
+groin, pelvis, lymphadenopathy, enlargement, lymph node
+chest
+cardiophrenic, chest, mass
+lymph node, pelvis
+chest
+right kidney, abdomen, retroperitoneum, kidney, solid, cyst
+pelvis, lymph node
+lung, chest, nodule
+large, subcarinal lymph node, chest, lymph node, mediastinum lymph node, mediastinum, pleura, lung
+hypoattenuation, paraaortic
+hilum, lymphadenopathy, enlargement, lymph node
+soft tissue, mass
+liver, abdomen, upper abdomen
+nodule, muscle, body wall
+chest, lung, soft tissue
+mediastinum lymph node, mediastinum, chest, lymph node, airway, trachea
+pelvis lymph node, pelvis, lymph node
+chest
+mass, chest
+chest
+sclerotic, bone, sacrum, spine, pelvis, pelvic wall
+liver, abdomen, upper abdomen, hypoattenuation
+abdomen, lymphadenopathy, enlargement, lymph node
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node, lymphadenopathy, enlargement
+hypoattenuation, liver, abdomen, upper abdomen
+chest
+chest, scar, right lower lobe, lung, right lung
+ground-glass opacity, opacity, nodule, left lower lobe, chest, lung, left lung
+mediastinum lymph node, mediastinum, chest, lymph node
+left hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+chest
+pelvis, groin, mass
+spleen, abdomen, upper abdomen, mass
+chest
+right lower lobe, chest, lung, right lung, nodule
+pelvis, mass
+femur, bone, extremity, thigh, lymph node
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+nodule, opacity, right lung, chest, lung, right upper lobe
+abdominal wall, abdomen, body wall, mass
+fissure, chest, lung, right lower lobe, right lung
+large, porta Hepatis, abdomen, liver, lymphadenopathy, enlargement, lymph node
+kidney cyst, cyst, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+chest
+sclerotic, bone, lytic, sacrum, spine, pelvis, pelvic wall
+right mid lung, chest, lung, right lung, nodule
+pelvic wall, pelvis, mass
+left lower lobe, chest, lung, left lung
+large, upper abdomen, abdomen, omentum, mass
+chest
+enlargement, adnexa, pelvis, cyst
+enhancing, liver, abdomen, upper abdomen
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+lung nodule, lung, chest, nodule, left upper lung, left lung
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node, common iliac lymph node
+diffuse, nodule, opacity, lingula, chest, lung, left lung, left upper lung, consolidation
+prominent, retroperitoneum, abdomen, common iliac lymph node, pelvis, lymph node, pelvis lymph node
+enlargement, pelvis, pelvic wall, lymph node
+retrocrural lymph node, lymph node, abdomen lymph node, abdomen
+indistinct, enhancing, hypoattenuation, mass, lesser sac, abdomen
+bone, spine, vertebral body, chest, thoracic spine, lymph node, lytic
+cyst, abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+anterior mediastinum, chest, mediastinum, mass, chest wall
+liver, abdomen, upper abdomen, enhancing
+axilla, chest, chest wall
+liver, abdomen, upper abdomen
+hypoattenuation, liver, abdomen, upper abdomen
+adrenal gland, abdomen, retroperitoneum, upper abdomen, hypoattenuation, nodule, extremity
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+right lung, chest, lung, lung nodule, nodule
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+hypoattenuation, liver, abdomen, upper abdomen
+enhancing, nodule, chest, spine, bone
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+ground-glass opacity, opacity, nodule, right upper lobe, chest, lung, right lung
+right lower lobe, chest, lung, right lung, soft tissue, nodule, spiculated
+spiculated, lucent, bone, spine, lumbar
+lung nodule, lung, chest, nodule, right lower lobe, right lung
+chest
+chest
+large, adnexa, pelvis, cyst
+left upper lung, chest, lung, left lung, nodule
+aorticopulmonary window, chest, mediastinum, lymph node, left hilum lymph node, hilum, hilum lymph node, mediastinum lymph node
+right lower lobe, chest, lung, right lung, nodule
+pelvis, lymphadenopathy, enlargement, lymph node, metastasis, cancer
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, mass, blood vessel
+enhancing, mass, pelvis
+calcified, lingula, chest, lung, left lung, left upper lung
+left lower lobe, chest, lung, left lung
+chest
+groin lymph node, groin, pelvis, lymph node, pelvis lymph node
+lung nodule, lung, chest, nodule
+chest
+chest
+nodule, enhancing, pancreatic head, abdomen, retroperitoneum, pancreas
+cavitary, nodule, right lower lobe, chest, lung, right lung
+hypoattenuation, liver, abdomen, upper abdomen, metastasis, cancer
+indistinct, hypoattenuation, liver, abdomen, upper abdomen, metastasis, cancer
+lymph node, nodule
+spleen, abdomen, upper abdomen
+chest
+left upper lung, chest, lung, left lung
+peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+simple cyst, cyst, right kidney, abdomen, retroperitoneum, kidney
+mediastinum lymph node, mediastinum, chest, lymph node
+nodule, adrenal gland, abdomen, retroperitoneum, upper abdomen, left adrenal gland
+chest, aorticopulmonary window, mediastinum, hilum, hilum lymph node, lymph node, mediastinum lymph node
+pancreas, abdomen, retroperitoneum, upper abdomen, enhancing, pancreatic head
+chest
+mediastinum lymph node, mediastinum, chest, lymph node
+prominent, chest
+mediastinum lymph node, mediastinum, chest, lymph node
+consolidation, right mid lung, chest, lung, right lung
+nodule, left upper lung, chest, lung, left lung, lung nodule
+lung mass, lung, chest, mass, left lower lobe, left lung
+left upper lung, chest, lung, left lung, lung nodule, nodule
+chest
+nodule, adrenal gland, abdomen, retroperitoneum, upper abdomen
+right lung, chest, lung
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+anterior mediastinum, chest, mediastinum, mass, lytic, bone, sternum, chest wall
+hilum, lymph node
+chest
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+necrosis, groin, pelvis, lymph node
+chest
+lobular, pleura, chest, mass, chest wall
+right lung, chest, lung
+lobular, pleura, chest, mass, right lower lobe, lung, right lung
+chest
+chest, mass
+calcified, nodule, left upper lung, chest, lung, left lung
+mass, chest
+indistinct, heterogeneous, enhancing, mass, thigh, extremity
+lymph node, chest
+abdomen, retroperitoneum, kidney, upper abdomen, right kidney, hypoattenuation, enhancing
+subcarinal lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+chest
+chest
+ground-glass opacity, opacity, nodule, left upper lung, chest, lung, left lung
+left hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+chest
+chest
+large, conglomerate, mesentery, abdomen
+sclerotic, bone, abdomen, intestine, small bowel, pelvis
+retroperitoneum, abdomen, lymphadenopathy, enlargement, lymph node, paraaortic
+large, conglomerate, retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+right upper lobe, chest, lung, right lung
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, aorta, blood vessel
+pelvis, lymph node, pelvic wall
+mesentery, abdomen, nodule
+abdomen, nodule
+solid, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+mass, chest, lung
+nodule, right lower lobe, chest, lung, right lung
+pelvis lymph node, pelvis, lymph node, pelvic wall
+hypoattenuation, mass
+pelvis, lytic, bone, mass
+anterior abdominal wall, abdomen, abdominal wall, body wall, intestine
+chest
+right mid lung, chest, lung, right lung
+blood vessel, abdomen, retroperitoneum, kidney, left kidney
+left lung, chest, lung, mass
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+nodule, opacity, right upper lobe, chest, lung, right lung
+chest
+right lung, chest, lung, lung nodule, nodule
+supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+lobular, nodule, left upper lung, chest, lung, left lung
+liver, abdomen, upper abdomen
+pleura, chest, thickening, lung base, lung, right lung
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+right mid lung, chest, lung, right lung
+large, retroperitoneum, abdomen, mass, left kidney, kidney
+lymph node, pelvis
+chest, pleura, enhancing, mass, lung
+right lower lobe, chest, lung, right lung
+hypoattenuation, liver, abdomen, upper abdomen
+mass, muscle, body wall
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+subcentimeter, nodule, left upper lung, chest, lung, left lung
+hypoattenuation, pancreatic tail, abdomen, retroperitoneum, pancreas
+chest, lymph node, mediastinum lymph node, mediastinum, hypoattenuation
+right upper lobe, chest, lung, right lung, lung nodule, nodule
+chest, lung
+liver, abdomen, upper abdomen, hypoattenuation
+large, paraaortic, lymph node
+right lower lobe, chest, lung, right lung, consolidation
+right mid lung, chest, lung, right lung
+chest
+lung nodule, lung, chest, nodule, right lung, lung apex
+paraaortic, soft tissue, nodule
+axilla, chest, chest wall, axilla lymph node, lymph node, lymphadenopathy, enlargement
+enhancing, spleen, abdomen, upper abdomen
+chest
+chest, lymphadenopathy, enlargement, lymph node
+chest
+left upper lung, chest, lung, left lung, nodule, lung nodule
+mediastinum lymph node, mediastinum, chest, lymph node
+porta Hepatis, abdomen, liver, lymph node
+chest
+large, mass
+enhancing, soft tissue, mass, anterior abdominal wall, abdomen, abdominal wall, body wall
+lung, chest, lung nodule, nodule, spiculated
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+chest
+hypoattenuation, liver, abdomen, upper abdomen
+chest
+lung nodule, lung, chest, nodule
+right lung, chest, lung
+fissure, chest, lung, nodule
+circumscribed, soft tissue, nodule, abdomen, abdominal wall, body wall
+chest, lung, ground-glass opacity, opacity, nodule
+mesentery, abdomen, mass
+left upper lung, chest, lung, left lung, nodule
+anterior mediastinum, chest, mediastinum
+mediastinum lymph node, mediastinum, chest, lymph node, hypoattenuation
+right lower lobe, chest, lung, right lung
+pleura, chest, lung
+chest
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+enhancing, liver, abdomen, upper abdomen, enlargement
+right upper lobe, chest, lung, right lung, nodule
+liver, abdomen, upper abdomen, enlargement, mass
+mediastinum lymph node, mediastinum, chest, lymph node
+lung, chest, mass
+hyperattenuation, mass, liver, abdomen, upper abdomen
+large, hypoattenuation, mass, liver, abdomen, upper abdomen
+lymph node, chest
+liver, abdomen, upper abdomen
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+liver, abdomen, upper abdomen
+chest
+hypoattenuation, liver, abdomen, upper abdomen
+abdomen, liver
+hypoattenuation, abdomen, retroperitoneum, kidney, upper abdomen, thyroid gland, neck
+large, nodule, lingula, chest, lung, left lung, left upper lung
+right kidney, abdomen, retroperitoneum, kidney, hypoattenuation
+right lower lobe, chest, lung, right lung, lung nodule, nodule
+soft tissue, nodule, breast, chest
+enhancing, nodule
+hypoattenuation, mass
+mediastinum lymph node, mediastinum, chest, lymph node
+mediastinum lymph node, mediastinum, chest, lymph node, hilum lymph node, hilum
+mediastinum, chest, lymphadenopathy, enlargement, lymph node
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, hypoattenuation
+hypoattenuation, kidney, abdomen, retroperitoneum, upper abdomen, left kidney
+nodule, stomach, abdomen, upper abdomen
+blood vessel, retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+blood vessel, lymphadenopathy, enlargement, lymph node
+right upper lobe, chest, lung, right lung, nodule, infiltrate
+implant, spleen, abdomen, upper abdomen, mass
+anterior mediastinum, chest, mediastinum, indistinct
+chest, mass
+lung nodule, lung, chest, nodule, right upper lobe, right lung
+spleen, abdomen, upper abdomen, mass
+chest, lung, nodule, left upper lung, left lung
+chest
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule, enlargement, metastasis, cancer
+fat-containing, adnexa, pelvis, tiny, calcified
+right upper lobe, chest, lung, right lung, patchy, infiltrate, spiculated
+hypoattenuation, pancreatic body, abdomen, retroperitoneum, pancreas, mass
+hypoattenuation, right kidney, abdomen, retroperitoneum, kidney
+cavitary, right lower lobe, chest, lung, right lung, scar
+lymphadenopathy, enlargement, lymph node
+hypoattenuation, pancreas, abdomen, retroperitoneum, upper abdomen, mass
+chest, mass
+right upper lobe, chest, lung, right lung, ground-glass opacity, opacity
+lung nodule, lung, chest, nodule, left upper lung, left lung
+solid, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+right lower lobe, chest, lung, right lung, nodule
+lung nodule, lung, chest, nodule
+soft tissue, mass, groin, pelvis
+chest, lung, nodule
+large, mass, pelvis
+left lower lobe, chest, lung, left lung, nodule
+hypoattenuation, pancreatic tail, abdomen, retroperitoneum, pancreas
+nodule, pericardium, chest, mediastinum
+liver, abdomen, upper abdomen
+right mid lung, chest, lung, right lung
+lymph node, enlargement
+enlargement, abdomen, liver, upper abdomen
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+chest
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+pelvis, pelvic wall, lymphadenopathy, enlargement, lymph node, iliac lymph node, pelvis lymph node
+right upper lobe, chest, lung, right lung, nodule
+liver, abdomen, upper abdomen
+paraaortic, fluid, circumscribed, thin
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+lung, chest, metastasis, cancer, left lower lobe, left lung
+chest, lung
+enhancing, nodule, bone, spine, lumbar, vertebral body
+pelvis, blood vessel, lymph node
+circumscribed, sclerotic, bone, spine, lumbar
+lung nodule, lung, chest, nodule, right lung, lung base
+left lower lobe, chest, lung, left lung, nodule
+infiltrate, left lower lobe, chest, lung, left lung
+calcified, lung mass, lung, chest, mass
+nodule, right upper lobe, chest, lung, right lung, calcified
+prominent, mediastinum lymph node, mediastinum, chest, lymph node
+axilla, chest, chest wall, lymphadenopathy, enlargement, lymph node
+chest
+enhancing, mass
+sclerotic, bone
+mass, chest, lung
+soft tissue attenuation, soft tissue, subcutaneous fat, subcutaneous, fat
+heterogeneous, lobular, soft tissue, mass
+axilla, chest, chest wall, axilla lymph node, lymph node
+liver, abdomen, upper abdomen
+hilum lymph node, hilum, lymph node, mediastinum lymph node, mediastinum, chest
+lung nodule, lung, chest, nodule
+lytic, bone, pelvis, pelvic bone, soft tissue, mass
+large, retroperitoneum, abdomen, mass
+chest
+abdomen, retroperitoneum, mass
+chest, lung
+left kidney, abdomen, retroperitoneum, kidney
+hypoattenuation, pancreatic tail, abdomen, retroperitoneum, pancreas, mass, indistinct
+iliac lymph node, pelvis, lymph node, pelvis lymph node
+right lung, chest, lung, lung nodule, nodule
+groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+kidney, abdomen, retroperitoneum, upper abdomen
+soft tissue, omentum, abdomen
+chest
+liver, abdomen, upper abdomen
+nodule, consolidation, ground-glass opacity, opacity, left lower lobe, chest, lung, left lung
+lung nodule, lung, chest, nodule, left upper lung, left lung
+mediastinum lymph node, mediastinum, chest, lymph node
+hypoattenuation, liver, abdomen, upper abdomen
+pelvis lymph node, pelvis, lymph node
+left hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+right mid lung, chest, lung, right lung, consolidation
+heterogeneous, soft tissue, mass, axilla, chest, chest wall
+lymph node, conglomerate
+calcified, mass, lung, chest, nodule
+supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+chest
+lymph node, pelvis
+large, conglomerate, retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+chest
+indistinct, hypoattenuation, mass, pancreatic head, abdomen, retroperitoneum, pancreas
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+pancreas, abdomen, retroperitoneum, upper abdomen, enhancing
+chest, mass
+retroperitoneum, abdomen, lymphadenopathy, enlargement, lymph node, pelvis, pelvic wall
+groin, pelvis, hypoattenuation, oval
+mass, liver, abdomen, upper abdomen
+lung mass, lung, chest, mass
+left lower lobe, chest, lung, left lung, spiculated, nodule
+chest
+conglomerate, subcutaneous, soft tissue, mass
+lobular mass, lobular, mass, mediastinum, chest
+lung nodule, lung, chest, nodule, left upper lung, left lung
+pelvis, lymph node, pelvic wall
+anterior mediastinum, chest, mediastinum, hypoattenuation
+lung, chest
+large, paracaval lymph node, lymph node, abdomen lymph node, abdomen
+nodule, adrenal gland, abdomen, retroperitoneum, upper abdomen, left adrenal gland
+mesentery, abdomen, nodule
+chest
+hypoattenuation, calcified
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+mediastinum lymph node, mediastinum, chest, lymph node, aorticopulmonary window
+chest
+chest
+lung nodule, lung, chest, nodule
+enlargement, solid, enhancing, mass, abdomen, retroperitoneum, kidney, upper abdomen
+lung nodule, lung, chest, nodule, left upper lung, left lung
+chest
+groin, pelvis
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+paraaortic, lymph node
+pelvis, cervix, enhancing, lobular mass, lobular, mass
+calcified, mass, pelvis, cortex, bone, pelvic bone
+paraaortic, lymph node
+lung nodule, lung, chest, nodule
+chest, lung, nodule, opacity, left lower lobe, left lung
+prominent, mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+lymphadenopathy, enlargement, lymph node, porta Hepatis lymph node, porta Hepatis, abdomen, abdomen lymph node
+consolidation, right mid lung, chest, lung, right lung
+indistinct, sclerotic, bone, spiculated, pelvis
+enhancing, axilla, chest, chest wall, axilla lymph node, lymph node, lymphadenopathy, enlargement
+hypoattenuation, liver, abdomen, upper abdomen
+hilum, lymph node
+pancreas, abdomen, retroperitoneum, upper abdomen
+indistinct, liver, abdomen, upper abdomen
+nonenhancing, hyperattenuation, liver, abdomen, upper abdomen
+cavitary, right upper lobe, chest, lung, right lung
+chest
+left lower lobe, chest, lung, left lung
+hypoattenuation, liver, abdomen, upper abdomen, enhancing
+large, mass
+nodule, left lower lobe, chest, lung, left lung
+mass, abdomen
+left upper lung, chest, lung, left lung, nodule
+lymph node, abdomen
+liver, abdomen, upper abdomen
+lung nodule, lung, chest, nodule, right upper lobe, right lung
+groin, pelvis, lymphadenopathy, enlargement, lymph node, fat
+hypoattenuation, liver, abdomen, upper abdomen
+mediastinum lymph node, mediastinum, chest, lymph node, blood vessel
+lingula, chest, lung, left lung, left upper lung, lung nodule, nodule
+enhancing, liver, abdomen, upper abdomen
+mass, cardiophrenic, chest
+right upper lobe, chest, lung, right lung, nodule
+liver, abdomen, upper abdomen
+right lower lobe, chest, lung, right lung
+noncalcified, nodule, right lower lobe, chest, lung, right lung
+solid, enhancing, exophytic, mass, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+pelvis, lymphadenopathy, enlargement, lymph node, pelvic wall, urinary bladder, mass
+chest, lung
+hypoattenuation, right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+left lower lobe, chest, lung, left lung
+mediastinum lymph node, mediastinum, chest, lymph node
+chest
+liver, abdomen, upper abdomen
+retroperitoneum, abdomen, oval, nodule
+liver, abdomen, upper abdomen
+hyperattenuation, nodule, abdomen
+large, hypoattenuation, liver mass, liver, abdomen, mass
+axilla lymph node, axilla, chest, chest wall, lymph node
+pelvis, nodule
+chest
+enlargement, soft tissue, mass
+ground-glass opacity, opacity, right upper lobe, chest, lung, right lung
+chest
+abdomen, liver, upper abdomen
+axilla lymph node, axilla, chest, chest wall, lymph node
+spiculated, enhancing, pelvis, mass
+chest
+chest
+peripancreatic lymph node, abdomen, lymph node, retroperitoneum lymph node, abdomen lymph node
+expansile, rib, bone, chest, chest wall
+soft tissue, mass
+liver mass, liver, abdomen, mass
+abdomen, liver, upper abdomen
+solid pulmonary nodule, nodule, right lower lobe, chest, lung, right lung
+aorticopulmonary window, chest, mediastinum
+chest
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+nodule, left upper lung, chest, lung, left lung, lung nodule
+chest, lymph node, superior mediastinum lymph node, superior mediastinum, mediastinum, mediastinum lymph node
+indistinct, hypoattenuation, pancreatic head, abdomen, retroperitoneum, pancreas
+left upper lung, chest, lung, left lung
+enhancing, mass
+iliac lymph node, pelvis, lymph node, pelvis lymph node
+right upper lobe, chest, lung, right lung, nodule
+chest
+mediastinum lymph node, mediastinum, chest, lymph node
+chest, mass
+groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+soft tissue attenuation, left upper lung, chest, lung, left lung
+cardiophrenic, chest, subcarinal lymph node, lymph node, mediastinum lymph node, mediastinum
+bone, spine, lumbar, vertebral body
+pericardium, chest, mediastinum, hypoattenuation, cardiophrenic, mass
+pelvis, mass, pelvic wall
+lung nodule, lung, chest, nodule, left lower lobe, left lung
+soft tissue, mass
+rib, bone, chest, chest wall, expansile
+pleura, chest, thickening, hypoattenuation
+liver, abdomen, upper abdomen
+right upper lobe, chest, lung, right lung
+cardiophrenic, chest, mass
+lung mass, lung, chest, mass
+lung nodule, lung, chest, nodule
+subcentimeter, hypoattenuation, liver, abdomen, upper abdomen
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+nodule, left lower lobe, chest, lung, left lung
+right kidney, abdomen, retroperitoneum, kidney, soft tissue, mass
+liver, abdomen, upper abdomen, cyst
+mesentery, abdomen, mass
+left lower lobe, chest, lung, left lung
+enhancing, skin, mass, axilla, chest, chest wall
+enhancing, abdomen, retroperitoneum, kidney, upper abdomen
+pleura, chest, thickening, fissure, lung
+axilla, chest, chest wall, axilla lymph node, lymph node, lymphadenopathy, enlargement
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node, pelvis
+lung, chest
+liver, abdomen, upper abdomen, mass
+fissure, chest, lung, nodule
+nodule, right lower lobe, chest, lung, right lung, mass
+lung nodule, lung, chest, nodule, left lower lobe, left lung
+large, liver, abdomen, upper abdomen
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+lymph node, chest
+indistinct, hypoattenuation, mass, liver, abdomen, upper abdomen
+axilla, chest, chest wall, axilla lymph node, lymph node
+chest
+ground-glass opacity, opacity, nodule, left lower lobe, chest, lung, left lung
+mass, small bowel, abdomen, intestine, mesentery
+chest
+solid pulmonary nodule, nodule, right upper lobe, chest, lung, right lung
+cyst, hemangioma, blood vessel
+abdomen, liver, upper abdomen
+large, retroperitoneum, abdomen, mass
+cardiophrenic, chest
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+lymphadenopathy, enlargement, lymph node
+lung nodule, lung, chest, nodule
+hypoattenuation, supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum, lymphadenopathy, enlargement
+hypoattenuation, liver, abdomen, upper abdomen
+hyperattenuation, hypoattenuation, abdomen, liver, upper abdomen
+lung nodule, lung, chest, nodule, right lower lobe, right lung
+left upper lung, chest, lung, left lung, mass
+lymphadenopathy, enlargement, lymph node, psoas muscle, muscle, paraspinal muscle, paraspinal
+paraaortic, retroperitoneum, abdomen, mass
+left kidney, abdomen, retroperitoneum, kidney, upper abdomen, hypoattenuation
+axilla, chest, chest wall
+chest, heterogeneous, mass
+left upper lung, chest, lung, left lung, lung nodule, nodule
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+blood vessel, liver, abdomen, upper abdomen, lucent
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+pelvis, lymph node, pelvic wall
+nodule, left lower lobe, chest, lung, left lung
+chest, noncalcified, mass
+hypoattenuation, enhancing
+right upper lobe, chest, lung, right lung, ground-glass opacity, opacity
+right kidney, abdomen, retroperitoneum, kidney, large, cyst
+abdomen, mass
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+chest, lung
+chest
+indistinct, soft tissue, mass, anterior mediastinum, chest, mediastinum
+hypoattenuation, mass, abdomen
+enhancing, pancreatic head, abdomen, retroperitoneum, pancreas
+chest
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+indistinct, hypoattenuation, mass, liver, abdomen, upper abdomen
+pancreatic tail, abdomen, retroperitoneum, pancreas
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+blood vessel, aorticopulmonary window, chest, mediastinum, mass
+fissure, chest, lung, ground-glass opacity, opacity, nodule
+hilum, mass
+ground-glass opacity, opacity, nodule, lung, chest
+omentum, abdomen, nodule
+tiny, perihilar, nodule
+hypoattenuation, liver, abdomen, upper abdomen
+nodule, right lung, chest, lung
+mesentery, abdomen, mass
+soft tissue, nodule, enhancing
+chest
+adnexa, pelvis, enhancing, nodule
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+bone, spine, lumbar
+right upper lobe, chest, lung, right lung, nodule
+hypoattenuation, pancreatic head, abdomen, retroperitoneum, pancreas
+abdomen, liver, upper abdomen
+nodule, lung, chest
+calcified, scar, left upper lung, chest, lung, left lung
+retroperitoneum, abdomen, mass
+liver, abdomen, upper abdomen
+chest
+lymphadenopathy, enlargement, lymph node, pelvis
+enlargement, left lung, chest, lung, nodule
+neck, lymph node
+liver, abdomen, upper abdomen, metastasis, cancer
+prominent, axilla, chest, chest wall, axilla lymph node, lymph node
+hilum lymph node, hilum, lymph node, mediastinum lymph node, mediastinum, chest
+left lung, chest, lung, lung mass, mass
+soft tissue, nodule, hyperattenuation, pelvis, retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+indistinct, calcified, soft tissue attenuation, chest
+hypoattenuation, calcified, soft tissue, mass, chest
+ovary, pelvis, cyst
+chest
+hypoattenuation, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+liver, abdomen, upper abdomen
+mass, kidney, abdomen, retroperitoneum, upper abdomen
+hypoattenuation, liver, abdomen, upper abdomen
+sclerotic, bone, spine, lumbar, vertebral body
+nodule, opacity, left lower lobe, chest, lung, left lung
+chest
+fat, chest, mediastinum, mass
+prominent, subcarinal lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+pancreas, abdomen, retroperitoneum, upper abdomen, cyst, pancreatic head
+pleura, chest, nodule
+lymph node, chest
+liver, abdomen, upper abdomen
+prominent, pelvis, blood vessel, lymph node
+chest
+hypoattenuation, hilum
+left upper lung, chest, lung, left lung, lung mass, mass
+lung nodule, lung, chest, nodule
+right lower lobe, chest, lung, right lung, nodule
+fat, chest, mediastinum
+mass, right lung, chest, lung, lung base
+pancreas, abdomen, retroperitoneum, upper abdomen, cyst, large
+mesentery, abdomen
+nodule, left lower lobe, chest, lung, left lung
+lung nodule, lung, chest, nodule, right lower lobe, right lung, left upper lung, left lung
+blood vessel, abdomen, lymph node
+right mid lung, chest, lung, right lung, nodule
+liver, abdomen, upper abdomen, hypoattenuation, metastasis, cancer
+large, enhancing, lymph node, femur, bone, extremity, thigh, groin, pelvis
+mediastinum, chest, lymphadenopathy, enlargement, lymph node
+superior mediastinum, chest, mediastinum, superior mediastinum lymph node, lymph node, mediastinum lymph node
+soft tissue, calcified, porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+enhancing, pancreatic head, abdomen, retroperitoneum, pancreas
+enlargement, paraaortic, lymph node
+lymphadenopathy, enlargement, lymph node
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+hypoattenuation, spleen, abdomen, upper abdomen
+nodule, right upper lobe, chest, lung, right lung
+abdomen, retroperitoneum, mass
+right hilum lymph node, hilum, lymph node, hilum lymph node, mediastinum lymph node, mediastinum, chest
+retrocrural lymph node, lymph node, abdomen lymph node, abdomen
+lymph node, chest
+mass, chest
+large, mass
+mass, consolidation, right lower lobe, chest, lung, right lung
+kidney, abdomen, retroperitoneum, upper abdomen, hypoattenuation, solid
+hypoattenuation, abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+chest, lung, nodule, opacity, left lower lobe, left lung
+subpleural, chest
+pelvis, lymph node, pelvic wall
+anterior mediastinum, chest, mediastinum, nodule
+spiculated, sclerotic, bone, abdomen, intestine, small bowel, pelvis
+chest
+prominent, mediastinum lymph node, mediastinum, chest, lymph node
+enhancing, liver, abdomen, upper abdomen
+nodule, left lung, chest, lung, lung base
+mass, right mid lung, chest, lung, right lung
+chest, lymph node, superior mediastinum lymph node, superior mediastinum, mediastinum, mediastinum lymph node
+enhancing, pancreatic head, abdomen, retroperitoneum, pancreas
+right lower lobe, chest, lung, right lung, ground-glass opacity, opacity, nodule
+abdomen, liver, upper abdomen
+pelvis, sclerotic, bone
+chest
+lung nodule, lung, chest, nodule, right lower lobe, right lung
+prominent, porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+hypoattenuation, lymphadenopathy, enlargement, lymph node, superior mediastinum, chest, mediastinum
+left lower lobe, chest, lung, left lung, lung nodule, nodule
+nodule, left upper lung, chest, lung, left lung, lung nodule
+retroperitoneum, abdomen, lymphadenopathy, enlargement, lymph node, paraaortic
+kidney, abdomen, retroperitoneum, upper abdomen, cyst
+soft tissue, mass, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+spleen, abdomen, upper abdomen
+chest, lung
+abdomen, liver, upper abdomen
+chest
+mediastinum lymph node, mediastinum, chest, lymph node
+hypoattenuation, lymph node, chest
+retroperitoneum, abdomen, paraaortic, lymph node
+spiculated, nodule, right mid lung, chest, lung, right lung
+enlargement, mediastinum lymph node, mediastinum, chest, lymph node
+indistinct, hypoattenuation, liver, abdomen, upper abdomen
+right upper lobe, chest, lung, right lung
+adrenal gland, abdomen, retroperitoneum, upper abdomen, enhancing, right adrenal gland
+paracaval lymph node, lymph node, abdomen lymph node, abdomen
+right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen
+paraaortic, lymph node
+prominent, retroperitoneum, abdomen, common iliac lymph node, pelvis, lymph node, pelvis lymph node
+right lung, chest, lung, lung nodule, nodule
+lung nodule, lung, chest, nodule
+cardiophrenic, chest, nodule
+chest
+iliac lymph node, pelvis, lymph node, pelvis lymph node
+indistinct, infiltrate, mass
+liver, abdomen, upper abdomen, hypoattenuation, metastasis, cancer
+hypoattenuation, mass
+fat, cortex, right kidney, abdomen, retroperitoneum, kidney
+enlargement, fissure, chest, lung, nodule
+lung nodule, lung, chest, nodule
+lymph node, chest
+nodule, right lower lobe, chest, lung, right lung
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+hypoattenuation, enhancing, kidney, abdomen, retroperitoneum, upper abdomen
+thickening, diffuse, omentum, abdomen
+mass, abdomen, liver, upper abdomen
+right lung, chest, lung
+paraaortic, lymph node
+prominent, porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+chest
+hypoattenuation, spleen, abdomen, upper abdomen, hilum
+enlargement, implant, mass
+sclerotic, bone, metastasis, cancer, spine, vertebral body, chest, thoracic spine
+right lower lobe, chest, lung, right lung
+chest
+nodule, chest, lung
+axilla lymph node, axilla, chest, chest wall, lymph node
+liver, abdomen, upper abdomen
+chest, lung
+nodule, right lung, chest, lung
+left kidney, abdomen, retroperitoneum, kidney
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+left upper lung, chest, lung, left lung, lung nodule, nodule
+mediastinum lymph node, mediastinum, chest, lymph node
+chest
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, mass
+lytic, bone, spine
+mediastinum lymph node, mediastinum, chest, lymph node
+hyperattenuation, axilla, chest, chest wall, axilla lymph node, lymph node
+right lower lobe, chest, lung, right lung
+chest, lymphadenopathy, enlargement, lymph node
+chest
+chest
+right thyroid lobe, neck, thyroid gland
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+chest
+pelvis, mass
+lymph node, chest
+nodule, retroperitoneum, abdomen, enhancing, lymph node
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, fat, paraaortic
+lytic, bone, sclerotic, spine, lumbar, vertebral body
+adnexa, pelvis, mass
+hypoattenuation, liver, abdomen, upper abdomen
+intestine, abdomen, mass
+pelvis, pelvis lymph node, lymph node
+paraaortic, lymph node
+hypoattenuation, exophytic, left kidney, abdomen, retroperitoneum, kidney
+right kidney, abdomen, retroperitoneum, kidney
+lymph node, chest
+calcified, cavitary, mass
+nodule, opacity, right mid lung, chest, lung, right lung
+axilla lymph node, axilla, chest, chest wall, lymph node
+chest, chest wall, mass
+cyst, pancreatic head, abdomen, retroperitoneum, pancreas
+mediastinum lymph node, mediastinum, chest, lymph node
+abdomen, nodule, gallbladder, biliary system
+liver, abdomen, upper abdomen, hypoattenuation
+prominent, porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+pleura, chest, mass
+chest
+indistinct, liver, abdomen, upper abdomen
+mass, mediastinum, chest
+enhancing, pancreatic head, abdomen, retroperitoneum, pancreas
+consolidation, right lower lobe, chest, lung, right lung
+chest
+kidney, abdomen, retroperitoneum, upper abdomen, cyst
+cervix, lymph node
+abdomen, liver, upper abdomen
+right lower lobe, chest, lung, right lung, cyst
+enhancing, mass
+liver, abdomen, upper abdomen, metastasis, cancer
+right upper lobe, chest, lung, right lung
+lung nodule, lung, chest, nodule, left lung, lung apex
+groin, pelvis, groin lymph node, lymph node, pelvis lymph node
+retroperitoneum, abdomen, blood vessel
+prominent, retroperitoneum, abdomen, paraaortic, lymph node
+pancreas, abdomen, retroperitoneum, upper abdomen
+cyst, adnexa, pelvis
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+enlargement, indistinct, hypoattenuation, liver, abdomen, upper abdomen
+chest
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+enhancing, mediastinum, chest, mass
+cervix, supraclavicular lymph node, chest, lymph node, mediastinum lymph node, mediastinum, mass
+retroperitoneum, abdomen, lymphadenopathy, enlargement, lymph node, large, conglomerate, paraaortic, mass
+anterior mediastinum, chest, mediastinum, mass
+right lower lobe, chest, lung, right lung
+chest
+enlargement, hypoattenuation, liver, abdomen, upper abdomen
+lymph node, chest
+abdomen, liver, upper abdomen, liver mass, mass
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+mediastinum lymph node, mediastinum, chest, lymph node
+left upper lung, chest, lung, left lung, nodule
+right mid lung, chest, lung, right lung, lung mass, mass
+chest
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+mediastinum lymph node, mediastinum, chest, lymph node
+calcified, expansile, soft tissue, mass, rib, bone, chest, chest wall
+enhancing, cyst
+nodule, right lung, chest, lung, right lower lobe
+enhancing, abdomen, retroperitoneum, kidney, upper abdomen
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+large, pleura, chest, diaphragm
+nodule, left lung, chest, lung, lung apex
+hypoattenuation, pancreatic head, abdomen, retroperitoneum, pancreas
+right lower lobe, chest, lung, right lung, lung mass, mass
+liver, abdomen, upper abdomen
+lobular, mass, chest, lung, right lung
+axilla, chest, chest wall, axilla lymph node, lymph node
+large, retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+hypoattenuation, liver, abdomen, upper abdomen, enhancing
+lymph node, chest
+chest
+mass, right lower lobe, chest, lung, right lung
+lumbar, bone, spine
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node, paraaortic
+left lower lobe, chest, lung, left lung, nodule
+enhancing, liver, abdomen, upper abdomen
+mass, abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+sclerotic, bone, lumbar, spine
+reticular, chest, lung, left lower lobe, left lung
+chest
+solid pulmonary nodule, nodule, left lower lobe, chest, lung, left lung
+liver mass, liver, abdomen, mass
+cyst, adnexa, pelvis, nodule
+hyperattenuation, lymph node, chest
+right upper lobe, chest, lung, right lung, mass
+hypoattenuation, mass
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+subcarinal lymph node, chest, lymph node, mediastinum lymph node, mediastinum
+soft tissue, mass
+liver, abdomen, upper abdomen, cyst
+lobular, nodule, right mid lung, chest, lung, right lung
+chest, lung
+blood vessel, mass
+lung, chest, infiltrate, consolidation, left upper lung, left lung
+indistinct, spiculated, hypoattenuation, liver, abdomen, upper abdomen
+chest, chest wall, mass
+large, mass, pelvis
+abdomen, retroperitoneum, lymphadenopathy, enlargement, lymph node
+ground-glass opacity, opacity, nodule
+enhancing, pancreatic tail, abdomen, retroperitoneum, pancreas
+chest, lymph node
+superior mediastinum lymph node, superior mediastinum, chest, mediastinum, lymph node, mediastinum lymph node
+chest, lung, ground-glass opacity, opacity, nodule, left upper lung, left lung
+enhancing, liver, abdomen, upper abdomen
+chest, airway, trachea
+chest, lipoma
+external iliac lymph node, pelvis, lymph node, pelvis lymph node, iliac lymph node
+anterior abdominal wall, abdomen, abdominal wall, body wall, subcutaneous, lipoma
+hypoattenuation, mass, chest, diaphragm, peritoneum, abdomen
+retroperitoneum, abdomen, blood vessel, lymph node
+liver, abdomen, upper abdomen
+lymphadenopathy, enlargement, lymph node
+lymphadenopathy, enlargement, lymph node, pelvis
+retrocrural lymph node, lymph node, abdomen lymph node, abdomen
+prominent, mediastinum lymph node, mediastinum, chest, lymph node, calcified
+nodule, left upper lung, chest, lung, left lung
+lymph node, nodule
+groin, pelvis
+lymphadenopathy, enlargement, lymph node, hilum
+mass, nodule
+mass, lesser sac, abdomen
+left adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen, nodule
+hypoattenuation, pancreas, abdomen, retroperitoneum, upper abdomen
+nodule, left lung, chest, lung, left lower lobe
+soft tissue attenuation, soft tissue, mass, pelvis, pelvic wall
+soft tissue, mass
+mesentery lymph node, mesentery, abdomen, lymph node, abdomen lymph node
+calcified, anterior mediastinum, chest, mediastinum, mass
+hypoattenuation, mass, abdomen, muscle
+hypoattenuation, liver, abdomen, upper abdomen, metastasis, cancer
+left upper lung, chest, lung, left lung
+hypoattenuation, right adrenal gland, abdomen, retroperitoneum, adrenal gland, upper abdomen
+abdomen, retroperitoneum, fluid
+anterior mediastinum, chest, mediastinum
+hypoattenuation, abdomen, retroperitoneum, kidney, upper abdomen
+chest
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+enhancing, mass, abdomen, retroperitoneum, kidney, upper abdomen, right kidney
+mass, pleura, chest
+chest
+chest
+hypoattenuation, pancreas, abdomen, retroperitoneum, upper abdomen
+adrenal gland, abdomen, retroperitoneum, upper abdomen, nodule
+hypoattenuation, kidney, abdomen, retroperitoneum, upper abdomen, left kidney
+cyst, enhancing, abdomen, retroperitoneum, kidney, upper abdomen, left kidney
+chest
+retroperitoneum lymph node, retroperitoneum, abdomen, lymph node
+pelvis, mass
+sclerotic, bone, lucent
+chest
+liver, abdomen, upper abdomen, enhancing
+pelvis, nodule, thickening
+enhancing, liver mass, liver, abdomen, mass, upper abdomen
+chest
+pelvis, mass
+tiny, nodule, left lower lobe, chest, lung, left lung
+indistinct, liver, abdomen, upper abdomen, hypoattenuation
+solid, left kidney, abdomen, retroperitoneum, kidney, upper abdomen, mass
+bone, sclerotic, rib, chest, chest wall
+upper abdomen, abdomen, abdomen lymph node, lymph node
+nodule, opacity, left lower lobe, chest, lung, left lung
+enhancing, pancreas, abdomen, retroperitoneum, upper abdomen
+left upper lung, chest, lung, left lung, hypoattenuation, mass
+chest
+chest
+liver, abdomen, upper abdomen
+ground-glass opacity, opacity, nodule, left lower lobe, chest, lung, left lung
+chest, nodule
+nodule, right upper lobe, chest, lung, right lung
+chest
+mediastinum lymph node, mediastinum, chest, lymph node
+chest
+ovary, pelvis, heterogeneous, fluid
+enhancing, chest, chest wall, mass
+lymph node, abdomen lymph node, abdomen
+mesentery, abdomen, mass
+left lower lobe, chest, lung, left lung
+mediastinum lymph node, mediastinum, chest, lymph node, conglomerate
+left lower lobe, chest, lung, left lung, lung nodule, nodule
+mass, liver, abdomen, upper abdomen
+chest
+right lower lobe, chest, lung, right lung, nodule
+common iliac lymph node, pelvis, lymph node, pelvis lymph node
+soft tissue attenuation, hilum lymph node, hilum, lymph node, mediastinum lymph node, mediastinum, chest, right hilum lymph node
+exophytic, indistinct, liver, abdomen, upper abdomen
+left lower lobe, chest, lung, left lung, mass
+lymphadenopathy, enlargement, lymph node, chest
+cyst, solid, left kidney, abdomen, retroperitoneum, kidney
+right mid lung, chest, lung, right lung, noncalcified, mass
+porta Hepatis lymph node, porta Hepatis, abdomen, lymph node, abdomen lymph node
+solid, mass, abdomen, retroperitoneum, kidney, upper abdomen
+retroperitoneum, abdomen, blood vessel
+fissure, chest, lung, nodule
+mesentery, abdomen, lymph node
+calcified, lung mass, lung, chest, mass
+chest, noncalcified, lung, mass
+hypoattenuation, mass, kidney, abdomen, retroperitoneum, upper abdomen, right kidney
+chest

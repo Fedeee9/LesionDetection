@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import json
 import os
+import time
 import random
 import config
 import cv2
@@ -33,11 +34,10 @@ def load_val_csv(val_csv):
 def load_labels(labels_file):
     labels = []
 
-    data = json.load(open(labels_file))
-    label = data.get('term_list')
-
-    for i in label:
-        labels.append(i.strip())
+    with open(labels_file) as lf:
+        for l in lf:
+            labels.append(l.strip())
+    #labels.sort()
 
     return labels
 

@@ -23,16 +23,18 @@ working_dir = "./"
 # file
 file_dir = working_dir + 'file/'
 labels_file = file_dir + 'text_mined_labels_171_and_split.json'
-train_csv = file_dir + 'Train_info.csv'
-test_csv = file_dir + 'Test_info.csv'
-val_csv = file_dir + 'Val_info.csv'
-test_image = file_dir + 'test_images.txt'
+labels_train = file_dir + 'finalLabelsTraining.txt'
+labels_val = file_dir + 'finalLabelsValidation.txt'
+#train_csv = file_dir + 'Train_info.csv'
+#test_csv = file_dir + 'Test_info.csv'
+#val_csv = file_dir + 'Val_info.csv'
+#test_image = file_dir + 'test_images.txt'
 
 # image
 dataset_dir = working_dir + 'dataset/'
 train_dir = dataset_dir + 'train/'
 test_dir = dataset_dir + 'test/'
-val_dir = dataset_dir + 'validation/'
+val_dir = dataset_dir + 'val/'
 
 # image BB
 dataset_dir = working_dir + 'dataset/prova/'
