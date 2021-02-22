@@ -1,10 +1,8 @@
-from preprocess_data import data_generator, load_labels, load_test_dataset
-import config
 import os
+import config
+from preprocess_data import data_generator
 from tensorflow.keras.models import load_model
 from preprocess_data_bb import data_generator
-import tensorflow as tf
-import lesion_detector_model
 
 
 def evaluate(model_evaluate):
@@ -21,6 +19,7 @@ if __name__ == "__main__":
     if os.path.isfile(config.model_detector):
         print("Loading object detector...")
         model = load_model(config.model_detector)
+        # verificare se metterlo o meno, prima provare senza
         # model.compile(loss='mse', metrics=['accuracy'])
         evaluate(model)
     else:
