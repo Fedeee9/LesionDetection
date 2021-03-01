@@ -13,6 +13,7 @@ def data_generator(dir_bb, csv, bath_size):
     count = 0
 
     filenames = df['File_name'].tolist()
+    filenames.sort()
     bb = df['Bounding_boxes'].tolist()
     # axis = df['Measurement_coordinates'].tolist()
 
@@ -24,7 +25,10 @@ def data_generator(dir_bb, csv, bath_size):
 
         imagePath = os.path.sep.join([dir_bb, name])
         image = cv2.imread(imagePath)
+
         if image is None:
+            #print('NON PRESENTE')
+            count += 1
             continue
         (h, w) = image.shape[:2]
 
@@ -48,6 +52,6 @@ def data_generator(dir_bb, csv, bath_size):
         n += 1
 
         if n == bath_size:
-            yield (np.array(images), np.array(boxes))
+            yield np.array(images), np.array(boxes)
             images, boxes = list(), list()
             n = 0
