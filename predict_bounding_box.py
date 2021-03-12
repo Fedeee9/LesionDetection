@@ -1,10 +1,10 @@
-import os
 import cv2
 import config
 import argparse
 import mimetypes
 import imutils
 import numpy as np
+from matplotlib import pyplot as plt
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
@@ -29,6 +29,7 @@ def predict():
     """
     print("[INFO] loading object detector...")
     model = load_model(config.model_detector)
+    print(imagePath)
 
     """for imagePath in imagePaths:
         image = load_img(imagePath, target_size=(224, 224))
@@ -55,11 +56,19 @@ def predict():
     endY = int(endY * h)
 
     # draw the predicted bounding box on the image
-    cv2.rectangle(image, (startX, startY), (endX, endY), (0, 255, 0), 2)
+    im = cv2.rectangle(image, (startX, startY), (endX, endY), (0, 255, 0), 2)
+
+    # draw the real bounding box on the image
+    im = cv2.rectangle(im, (202, 190), (224, 210), (0, 255, 255), 2)
 
     # show the outputs image
-    cv2.imshow('Output', image)
-    cv2.waitKey(0)
+    #cv2.imshow('Output', image)
+    #cv2.waitKey(0)
+
+    # Show the image with matplotlib
+    plt.figure(figsize=(10, 10))
+    plt.imshow(im)
+    plt.show()
 
 
 if __name__ == "__main__":
