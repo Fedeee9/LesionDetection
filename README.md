@@ -25,6 +25,18 @@ python3 -m pip install -r requirements.txt
 ```
 
 ## Running
+* Training:
+```
+
+```
+* Evaluate:
+```
+
+```
+* Test:
+```
+
+```
 
 ## Result
 
