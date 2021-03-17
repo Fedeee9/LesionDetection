@@ -55,8 +55,8 @@ def train():
 
     # train the network for bounding box regression
     print("[INFO] training bounding box regress...")
-    history = model.fit(x=train_data_gen, validation_data=val_data_gen, batch_size=config.batch_size, epochs=25,
-                        steps_per_epoch=train_steps, validation_steps=val_steps, verbose=1,
+    history = model.fit(x=train_data_gen, validation_data=val_data_gen, batch_size=config.batch_size,
+                        epochs=config.total_epochs, steps_per_epoch=train_steps, validation_steps=val_steps, verbose=1,
                         callbacks=[save_model_callback, early_stopping_callback, reduce_lr_callback])
 
     return history

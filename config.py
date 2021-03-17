@@ -52,5 +52,5 @@ train_log_file = train_log_dir + model_name + "_log.csv"
 plot_path_loss = train_log_dir + "VGG16_plot_loss.png"
 plot_path_acc = train_log_dir + "VGG16_plot_accuracy.png"
 
-batch_size = 4
-total_epochs = 100
+batch_size = 32
+total_epochs = 25
