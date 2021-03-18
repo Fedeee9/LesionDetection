@@ -21,7 +21,7 @@ cd LesionDetection
 python3 -m venv venv
 source venv/bin/activate
 
-python3 -m pip install "name model"
+python3 -m pip install "model name"
 ```
 
 ## Running
