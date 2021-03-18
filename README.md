@@ -21,21 +21,21 @@ cd LesionDetection
 python3 -m venv venv
 source venv/bin/activate
 
-python3 -m pip install "modules name"
+python3 -m pip install "MODULE_NAME"
 ```
 
 ## Running
 * Training:
 ```
-
+python3 train_bounding_box.py
 ```
 * Evaluate:
 ```
-
+python3 evaluate_bounding_box.py
 ```
 * Test:
 ```
-
+python3 predict_bounding_box.py --input "TEST_IMAGE_FILE"
 ```
 
 ## Result
