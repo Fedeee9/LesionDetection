@@ -53,4 +53,4 @@ plot_path_loss = train_log_dir + "VGG16_plot_loss.png"
 plot_path_acc = train_log_dir + "VGG16_plot_accuracy.png"
 
 batch_size = 32
-total_epochs = 25
+total_epochs = 5
