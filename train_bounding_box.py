@@ -78,7 +78,7 @@ if __name__ == "__main__":
     plt.savefig(config.plot_path_loss)
 
     plt.figure()
-    plt.plot(np.arange(0, N), H.history['accuracy'], label='accuracy', color='blue')
+    plt.plot(np.arange(0, N), H.history['accuracy'], label='accuracy')
     plt.plot(np.arange(0, N), H.history['val_accuracy'], label='val_accuracy', color='blue')
     plt.title('Bounding Box Accuracy on Training Set')
     plt.xlabel('Epoch #')
