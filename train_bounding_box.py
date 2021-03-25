@@ -21,13 +21,13 @@ def train():
 
     print("[INFO] loading dataset...")
     print("Batch size =", config.batch_size)
-    train_data_gen = data_generator(config.train_dir_bb, config.train_csv, config.batch_size)
-    val_data_gen = data_generator(config.val_dir_bb, config.val_csv, config.batch_size)
+    train_data_gen = data_generator(config.train_dir, config.train_csv, config.batch_size)
+    val_data_gen = data_generator(config.val_dir, config.val_csv, config.batch_size)
 
-    files_train = [f for f in os.listdir(config.train_dir_bb) if os.path.isfile(os.path.join(config.train_dir_bb, f))]
+    files_train = [f for f in os.listdir(config.train_dir) if os.path.isfile(os.path.join(config.train_dir, f))]
     train_steps = (len(files_train) // config.batch_size) + 1
 
-    files_val = [f for f in os.listdir(config.val_dir_bb) if os.path.isfile(os.path.join(config.val_dir_bb, f))]
+    files_val = [f for f in os.listdir(config.val_dir) if os.path.isfile(os.path.join(config.val_dir, f))]
     val_steps = (len(files_val) // config.batch_size) + 1
 
     print("Train steps =", train_steps)

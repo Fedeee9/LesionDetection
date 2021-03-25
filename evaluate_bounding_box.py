@@ -1,6 +1,5 @@
 import os
 import config
-from preprocess_data import data_generator
 from tensorflow.keras.models import load_model
 from preprocess_data_bb import data_generator
 
@@ -10,7 +9,7 @@ def evaluate(model_evaluate):
 
     print("Batch size =", config.batch_size)
 
-    files_test = [f for f in os.listdir(config.test_dir_bb) if os.path.isfile(os.path.join(config.test_dir_bb, f))]
+    files_test = [f for f in os.listdir(config.test_dir) if os.path.isfile(os.path.join(config.test_dir, f))]
     test_steps = (len(files_test) // config.batch_size) + 1
     print("Test steps =", test_steps)
 
