@@ -2,7 +2,6 @@ import os
 import config
 import numpy as np
 import matplotlib.pyplot as plt
-import tensorflow_addons as tfa
 from preprocess_data_bb import data_generator
 from tensorflow.keras.applications import VGG16
 from tensorflow.keras.layers import Input, Flatten, Dense
