@@ -49,7 +49,7 @@ def train():
     model = Model(inputs=vgg.input, outputs=bboxHead)
 
     # initialize the optimizer, compile the model and show the model
-    opt = Adam(lr=0.001)
+    opt = Adam(lr=0.01)
     model.compile(loss='mse', optimizer=opt, metrics=['accuracy'])
     print(model.summary())
 
