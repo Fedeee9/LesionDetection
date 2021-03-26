@@ -96,9 +96,9 @@ def predict():
     print(boxB)
 
     # draw the predicted bounding box on the image
-    im = cv2.rectangle(image, (startX, startY), (endX, endY), (0, 255, 0), 2)
+    im = cv2.rectangle(image, (startX, startY), (endX, endY), (255, 0, 0), 2)
     # draw the real bounding box on the image
-    im = cv2.rectangle(im, (realSX, realSY), (realEX, realEY), (0, 255, 255), 2)
+    im = cv2.rectangle(im, (realSX, realSY), (realEX, realEY), (0, 255, 0), 2)
 
     # compute the intersection over union and display it
     iou = bb_intersection_over_union(boxA, boxB)
