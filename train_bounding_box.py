@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from preprocess_data_bb import data_generator
 from tensorflow.keras.applications import VGG16
+from tensorflow.keras.applications.resnet import ResNet50
 from tensorflow.keras.layers import Input, Flatten, Dense
 from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import Adam
@@ -12,11 +13,11 @@ from keras.callbacks import ModelCheckpoint, Callback, EarlyStopping, CSVLogger,
 
 def train():
     # callbacks
-    save_model_callback = ModelCheckpoint(config.model_detector, monitor='val_accuracy', save_best_only=True,
+    save_model_callback = ModelCheckpoint(config.model_detector, monitor='val_loss', save_best_only=True,
                                           mode='auto', verbose=1, period=1)
-    early_stopping_callback = EarlyStopping(monitor='val_accuracy', mode='max', restore_best_weights=True,
+    early_stopping_callback = EarlyStopping(monitor='val_loss', mode='max', restore_best_weights=True,
                                             verbose=1, patience=15)
-    reduce_lr_callback = ReduceLROnPlateau(monitor='val_accuracy', mode='auto', factor=0.5, patience=5,
+    reduce_lr_callback = ReduceLROnPlateau(monitor='val_loss', mode='auto', factor=0.5, patience=5,
                                            min_lr=0.00001, verbose=1)
 
     print("[INFO] loading dataset...")
@@ -35,13 +36,14 @@ def train():
 
     # load the VGG16 network
     vgg = VGG16(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
+    #resnet = ResNet50(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
 
     vgg.trainable = False
 
     flatten = vgg.output
     flatten = Flatten()(flatten)
 
-    bboxHead = Dense(128, activation='relu')(flatten)
+    bboxHead = Dense(129, activation='relu')(flatten)
     bboxHead = Dense(64, activation='relu')(bboxHead)
     bboxHead = Dense(32, activation='relu')(bboxHead)
     bboxHead = Dense(4, activation='sigmoid')(bboxHead)
@@ -49,9 +51,8 @@ def train():
     model = Model(inputs=vgg.input, outputs=bboxHead)
 
     # initialize the optimizer, compile the model and show the model
-    opt = Adam(lr=0.01)
-    model.compile(loss='mse', optimizer=opt, metrics=['accuracy'])
-    model.compile(loss=tfa.losses.GIoULoss(mode='iou'), optimizer=opt, metrics=['accuracy'])
+    opt = Adam(lr=0.001)
+    model.compile(loss='mse', optimizer=opt)
     print(model.summary())
 
     # train the network for bounding box regression
@@ -77,12 +78,3 @@ if __name__ == "__main__":
     plt.ylabel('Loss')
     plt.legend(loc='lower left')
     plt.savefig(config.plot_path_loss)
-
-    plt.figure()
-    plt.plot(np.arange(0, N), H.history['accuracy'], label='accuracy')
-    plt.plot(np.arange(0, N), H.history['val_accuracy'], label='val_accuracy', color='blue')
-    plt.title('Bounding Box Accuracy on Training Set')
-    plt.xlabel('Epoch #')
-    plt.ylabel('Accuracy')
-    plt.legend(loc='lower left')
-    plt.savefig(config.plot_path_acc)
