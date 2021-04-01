@@ -17,7 +17,7 @@ def train():
                                           mode='auto', verbose=1, period=1)
     early_stopping_callback = EarlyStopping(monitor='val_loss', mode='max', restore_best_weights=True,
                                             verbose=1, patience=15)
-    reduce_lr_callback = ReduceLROnPlateau(monitor='val_loss', mode='auto', factor=0.5, patience=5,
+    reduce_lr_callback = ReduceLROnPlateau(monitor='val_loss', mode='auto', factor=0.5, patience=3,
                                            min_lr=0.00001, verbose=1)
 
     print("[INFO] loading dataset...")
@@ -35,20 +35,20 @@ def train():
     print("Validation steps =", val_steps)
 
     # load the VGG16 network
-    vgg = VGG16(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
-    #resnet = ResNet50(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
+    #vgg = VGG16(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
+    resnet = ResNet50(weights='imagenet', pooling='avg', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
 
-    vgg.trainable = False
+    resnet.trainable = False
 
-    flatten = vgg.output
+    flatten = resnet.output
     flatten = Flatten()(flatten)
 
-    bboxHead = Dense(129, activation='relu')(flatten)
+    bboxHead = Dense(128, activation='relu')(flatten)
     bboxHead = Dense(64, activation='relu')(bboxHead)
     bboxHead = Dense(32, activation='relu')(bboxHead)
     bboxHead = Dense(4, activation='sigmoid')(bboxHead)
 
-    model = Model(inputs=vgg.input, outputs=bboxHead)
+    model = Model(inputs=resnet.input, outputs=bboxHead)
 
     # initialize the optimizer, compile the model and show the model
     opt = Adam(lr=0.001)
