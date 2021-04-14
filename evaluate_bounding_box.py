@@ -15,8 +15,6 @@ def evaluate(model_evaluate):
 
     results = model_evaluate.evaluate(x=test_data_gen, verbose=1, return_dict=True, steps=test_steps)
     loss = results['loss']
-    #accuracy = results['accuracy']
-    #print('\nMODEL: {}\nACCURACY: {:.2f}%'.format(config.model_name, accuracy * 100))
     print('\nMODEL: {}\nLOSS: {:.2f}%'.format(config.model_name, loss))
 
 

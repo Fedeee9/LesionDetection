@@ -23,14 +23,14 @@ val_dir_bb = dataset_dir + 'validation'
 
 # model
 models_dir = working_dir + 'models'
-model1_name = "VGG16"
-model2_name = "ResNet50"
-model_detector_1 = models_dir + "/VGG16.h5"
-model_detector_2 = models_dir + "/ResNet50.h5"
+model_name = "VGG16"
+#model_name = "ResNet50"
+model_detector = models_dir + "/VGG16.h5"
+#model_detector = models_dir + "/ResNet50.h5"
 train_log_dir = working_dir + 'training_logs/'
 #train_log_file = train_log_dir + model_name + "_log.csv"
 plot_path_loss = train_log_dir + "VGG16_plot_loss.png"
-plot_path_acc = train_log_dir + "VGG16_plot_accuracy.png"
+#plot_path_loss = train_log_dir + "ResNet50_plot_loss.png"
 
 batch_size = 32
 total_epochs = 20
