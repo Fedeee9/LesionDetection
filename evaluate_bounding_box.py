@@ -5,7 +5,7 @@ from preprocess_data_bb import data_generator
 
 
 def evaluate(model_evaluate):
-    test_data_gen = data_generator(config.test_dir_bb, config.test_csv, config.batch_size)
+    test_data_gen = data_generator(config.test_dir, config.test_csv, config.batch_size)
 
     print("Batch size =", config.batch_size)
 
@@ -15,7 +15,7 @@ def evaluate(model_evaluate):
 
     results = model_evaluate.evaluate(x=test_data_gen, verbose=1, return_dict=True, steps=test_steps)
     loss = results['loss']
-    print('\nMODEL: {}\nLOSS: {:.2f}%'.format(config.model_name, loss))
+    print('\nMODEL: {}\nLOSS: {:.4f}'.format(config.model_name, loss))
 
 
 if __name__ == "__main__":
