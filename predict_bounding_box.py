@@ -8,8 +8,6 @@ import numpy as np
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
-from matplotlib import pyplot as plt
-
 
 def bb_intersection_over_union(boxA, boxB):
     # determine the (x, y)-coordinates of the intersection rectangle
@@ -43,13 +41,13 @@ def predict():
 
     filetype = mimetypes.guess_type(args['input'])[0]
     imagePaths = [args['input']]"""
-    imagePath = 'dataset/train/000002_01_01_162.png'
+    imagePath = 'dataset/test/000039_03_01_062.png'
 
     # coordinates real image
-    realSX = 229
-    realSY = 256
-    realEX = 245
-    realEY = 273
+    realSX = 295
+    realSY = 238
+    realEX = 330
+    realEY = 274
 
     # if the file type is a text file, then we need to process multiple images
     """if 'text/plain' == filetype:

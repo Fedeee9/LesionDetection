@@ -61,4 +61,4 @@ def data_generator(dir_bb, csv, batch_size):
 
 
 if __name__ == "__main__":
-    data_generator(config.train_dir_bb, config.train_csv, config.batch_size)
+    data_generator(config.train_dir, config.train_csv, config.batch_size)

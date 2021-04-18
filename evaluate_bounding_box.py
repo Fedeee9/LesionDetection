@@ -22,8 +22,7 @@ if __name__ == "__main__":
     if os.path.isfile(config.model_detector):
         print("Loading object detector...")
         model = load_model(config.model_detector)
-        # verificare se metterlo o meno, prima provare senza
-        # model.compile(loss='mse', metrics=['accuracy'])
+
         evaluate(model)
     else:
         print("Model not found in {}".format(config.model_detector))
