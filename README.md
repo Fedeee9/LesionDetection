@@ -24,6 +24,9 @@ source venv/bin/activate
 python3 -m pip install "MODULE_NAME"
 ```
 
+## Dataset
+The split dataset with the related files can be found here: https://github.com/Fedeee9/Lesion_Dataset
+
 ## Running
 * Training:
 ```
@@ -41,10 +44,6 @@ python3 predict_bounding_box.py --input "TEST_IMAGE_FILE"
 ## Result
 
 ### Examples
-
-
-## Dataset
-The split dataset with the related files can be found here: https://github.com/Fedeee9/Lesion_Dataset
 
 ## Credits
 * LesionDetection was developed by Federico Dal Monte
