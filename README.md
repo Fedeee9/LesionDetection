@@ -1,5 +1,5 @@
 # LesionDetection
-LesionDetection is a simple neural network 
+LesionDetection is a simple neural network capable of identifying the lesions present in the human body through the use of bounding boxes.
 
 ## Getting Started
 
