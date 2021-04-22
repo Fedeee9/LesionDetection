@@ -35,8 +35,8 @@ def train():
     print("Validation steps =", val_steps)
 
     # load the VGG16 network
-    #vgg = VGG16(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
-    resnet = ResNet50(weights='imagenet', pooling='avg', include_top=False, input_tensor=Input(shape=(224, 244, 3)))
+    #vgg = VGG16(weights='imagenet', include_top=False, input_tensor=Input(shape=(224, 224, 3)))
+    resnet = ResNet50(weights='imagenet', pooling='avg', include_top=False, input_tensor=Input(shape=(224, 224, 3)))
 
     resnet.trainable = False
 
