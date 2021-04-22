@@ -1,5 +1,5 @@
 # LesionDetection
-LesionDetection is a simple neural network 
+LesionDetection is a simple neural network capable of identifying the lesions present in the human body through the use of bounding boxes.
 
 ## Getting Started
 
@@ -24,6 +24,9 @@ source venv/bin/activate
 python3 -m pip install "MODULE_NAME"
 ```
 
+## Dataset
+The split dataset with the related files can be found here: https://github.com/Fedeee9/Lesion_Dataset
+
 ## Running
 * Training:
 ```
@@ -41,8 +44,6 @@ python3 predict_bounding_box.py --input "TEST_IMAGE_FILE"
 ## Result
 
 ### Examples
-
-
 
 ## Credits
 * LesionDetection was developed by Federico Dal Monte
