@@ -1,7 +1,7 @@
 # LesionDetection
 
 <p align="center">
-<img src="image/Principal_Image?raw=true"  width=500px />
+<img src="image/Principal_Image.png?raw=true"  width=500px />
 </p>
 
 LesionDetection is a simple neural network capable of identifying the lesions present in the human body through the use of bounding boxes.
