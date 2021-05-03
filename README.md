@@ -46,9 +46,5 @@ python3 evaluate_bounding_box.py
 python3 predict_bounding_box.py --input "TEST_IMAGE_FILE"
 ```
 
-## Result
-
-### Examples
-
 ## Credits
 * LesionDetection was developed by Federico Dal Monte
